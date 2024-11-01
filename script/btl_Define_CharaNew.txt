@@ -1,0 +1,9 @@
+//‹óƒtƒ@ƒCƒ‹
+
+const Def_ChrNo_Chr023 = 23;
+
+const Def_ChrNo_HYD = 23;
+
+const Def_ChrNo_Chr024 = 24;
+
+const Def_ChrNo_Nan = 24;

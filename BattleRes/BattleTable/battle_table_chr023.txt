@@ -1,0 +1,184 @@
+//-----------------------------------------------------------------------------
+// ストーリーテーブル
+//-----------------------------------------------------------------------------
+Stage_Table <-
+{
+	List = [],
+};
+
+local tbl00 = 
+{
+	InvalidCharaList = [ "chr000", "chr010", "chr014", "chr016","chr019" ],	 // 登場禁止キャラリスト(拡張用に予約)
+	StageTable =
+	[
+		{ enemy="",    bg=1,	bgm=-1	}, // Stage1
+		{ enemy="",    bg=10,	bgm=-1	}, // Stage2
+		{ enemy="chr008", bg= 10,	bgm=-1	}, // Stage3　※SingleModeMemoryEpisode.csvと対応
+		{ enemy="",    bg=4,	bgm=-1	}, // Stage4
+		{ enemy="",    bg=5,	bgm=-1	}, // Stage5
+		{ enemy="",    bg=3,	bgm=-1	}, // Stage6
+		{ enemy="chr009", bg= 6,	bgm=-1	}, // Stage7　※SingleModeMemoryEpisode.csvと対応
+	]
+};
+Stage_Table.List.append( tbl00 );
+
+//-----------------------------------------------------------------------------
+// スコアアタックテーブル
+//-----------------------------------------------------------------------------
+ScoreAttack_Table <-
+{
+	List = [],
+};
+
+local sc_tbl = 
+{
+	InvalidCharaList = [ "", ],		// 登場禁止キャラリスト(拡張用に予約)
+	StageTable =
+	[
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage1
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage2
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage3
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage4
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage5
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage6
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage7
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage8
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage9
+		{ enemy="",		bg= 9,	bgm=-1,	script=0, boss=1 }, // Stage10
+	]
+};
+ScoreAttack_Table.List.append( sc_tbl );
+
+//-----------------------------------------------------------------------------
+// タイムアタックテーブル
+//-----------------------------------------------------------------------------
+TimeAttack_Table <-
+{
+	List = [],
+};
+
+local ta_tbl = 
+{
+	InvalidCharaList = [ "", ],		// 登場禁止キャラリスト(拡張用に予約)
+	StageTable =
+	[
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage1
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage2
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage3
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage4
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage5
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage6
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage7
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage8
+		{ enemy="",		bg=-1,	bgm=-1,	script=0 }, // Stage9
+		{ enemy="",		bg= 9,	bgm=-1,	script=0, boss=1 }, // Stage10
+	]
+};
+TimeAttack_Table.List.append( ta_tbl );
+
+//-----------------------------------------------------------------------------
+// ボスラッシュテーブル
+//-----------------------------------------------------------------------------
+BossRush_Table <-
+{
+	List = [],
+};
+
+local br_tbl = 
+{
+	InvalidCharaList = [ "", ],		// 登場禁止キャラリスト(拡張用に予約)
+	StageTable =
+	[
+		{ enemy="chr000",		bg=90,	bgm=-1, boss=1 }, // Stage1 トレーニングルーム
+		{ enemy="chr008",		bg= 5,	bgm=-1, boss=1 }, // Stage2 路地裏
+		{ enemy="chr009",		bg=14,	bgm=-1, boss=1 }, // Stage3 地下墓地(吹雪)
+		{ enemy="chr007",		bg= 3,	bgm=-1, boss=1 }, // Stage4 公園夜
+		{ enemy="chr010",		bg=10,	bgm=-1, boss=1 }, // Stage5 遠野邸外観夜
+		{ enemy="chr002",		bg= 1,	bgm=-1, boss=1 }, // Stage6 遠野邸ロビー夜
+		{ enemy="chr003",		bg=90,	bgm=-1, boss=2, kakusi=1 }, // Stage7 トレーニングルーム
+	]
+};
+BossRush_Table.List.append( br_tbl );
+
+//-----------------------------------------------------------------------------
+// ボスラッシュ2テーブル
+// 
+// boss   1:ボスキャラ 2:ボスキャラ＆白フェードKO
+// kakusi 1:MAP画面のキャラを隠す
+//-----------------------------------------------------------------------------
+BossRush01_Table <-
+{
+	List = [],
+};
+
+local br_tbl = 
+{
+	InvalidCharaList = [ "", ],		// 登場禁止キャラリスト(拡張用に予約)
+	StageTable =
+	[
+		{ enemy="chr009", enemy_type=8, bg= 9,  bgm=-1, boss=1, kakusi=1 }, // Stage1
+		{ enemy="chr008", enemy_type=8, bg=13,  bgm=-1, boss=1, kakusi=1 }, // Stage2
+		{ enemy="chr001", enemy_type=8, bg= 8,  bgm=-1, boss=1, kakusi=1 }, // Stage3
+		{ enemy="chr004", enemy_type=8, bg=11,  bgm=-1, boss=1, kakusi=1 }, // Stage4
+		{ enemy="chr002", enemy_type=8, bg= 1,  bgm=-1, boss=1, kakusi=1 }, // Stage5
+		{ enemy="chr005", enemy_type=8, bg= 3,  bgm=-1, boss=1, kakusi=1 }, // Stage6
+		{ enemy="chr003", enemy_type=8, bg= 5,  bgm=-1, boss=2, kakusi=1, view_bg=3 }, // Stage7
+	]
+};
+BossRush01_Table.List.append( br_tbl );
+
+
+//-----------------------------------------------------------------------------
+// ボスラッシュ3テーブル
+// 
+// boss   1:ボスキャラ 2:ボスキャラ＆白フェードKO
+// kakusi 1:MAP画面のキャラを隠す
+//-----------------------------------------------------------------------------
+BossRush02_Table <-
+{
+	List = [],
+};
+
+local br_tbl = 
+{
+	InvalidCharaList = [ "", ],		// 登場禁止キャラリスト(拡張用に予約)
+	StageTable =
+	[
+		{ enemy="chr020", enemy_type=7, bg=30,  bgm=-1, boss=0 }, // Stage1
+		{ enemy="chr021", enemy_type=7, bg=30,  bgm=-1, boss=0 }, // Stage2
+		{ enemy="chr022", enemy_type=7, bg=30,  bgm=-1, boss=0 }, // Stage3
+		{ enemy="chr019", enemy_type=7, bg=30,  bgm=-1, boss=0, kakusi=1 }, // Stage4
+	]
+};
+BossRush02_Table.List.append( br_tbl );
+
+//-----------------------------------------------------------------------------
+// ボスラッシュ4テーブル
+// 
+// boss   1:ボスキャラ 2:ボスキャラ＆白フェードKO
+// kakusi 1:MAP画面のキャラを隠す
+//-----------------------------------------------------------------------------
+BossRush03_Table <-
+{
+	List = [],
+};
+
+local br_tbl = 
+{
+	InvalidCharaList = [ "", ],		// 登場禁止キャラリスト(拡張用に予約)
+	StageTable =
+	[
+		{ enemy="chr019", enemy_type=0, bg=10,  bgm=-1, boss=0, kakusi=1 }, // Stage1　※志貴操作
+		{ enemy="chr019", enemy_type=7, bg=33,  bgm=-1, boss=0, kakusi=1 }, // Stage2
+		{ enemy="chr011", enemy_type=7, bg=15,  bgm=-1, boss=0, kakusi=1 }, // Stage3
+		{ enemy="chr000", enemy_type=7, bg=27,  bgm=-1, boss=0, kakusi=1 }, // Stage4
+		{ enemy="chr014", enemy_type=7, bg=18,  bgm=-1, boss=0, kakusi=1, view_bg=5 }, // Stage5
+		{ enemy="chr001", enemy_type=7, bg= 8,  bgm=-1, boss=0, kakusi=1 }, // Stage6
+		{ enemy="chr004", enemy_type=7, bg= 8,  bgm=-1, boss=0, kakusi=1 }, // Stage7
+		{ enemy="chr019", enemy_type=6, bg=24,  bgm=-1, boss=0, kakusi=1 }, // Stage8
+		{ enemy="chr016", enemy_type=7, bg=24,  bgm=-1, boss=0, kakusi=1 }, // Stage9
+		{ enemy="chr002", enemy_type=7, bg=11,  bgm=-1, boss=0, kakusi=1 }, // Stage10
+		{ enemy="chr013", enemy_type=7, bg=35,  bgm=-1, boss=0, kakusi=1 }, // Stage11
+	]
+};
+BossRush03_Table.List.append( br_tbl );

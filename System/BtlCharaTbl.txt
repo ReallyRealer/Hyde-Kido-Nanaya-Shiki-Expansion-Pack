@@ -1,0 +1,493 @@
+
+/******************************************************************************
+ * リリース用の定義ファイルです 開発中の定義は行わないでください
+ * ※必ず動作確認を行ってください
+ ******************************************************************************/
+
+Chara_Table <-
+{
+	// キャラセレクト用配置 99 がランダム、必ず２次元配列になるように
+	// ・配列は内部の値です、アイコンの位置が移動したりはしません。
+	// ・同じキャラ番号が配置されているとたぶん正常に動作しない
+	// ・長さ０の配列があると落ちる
+	// ・配列数は縦x横が100未満になるように
+	SelectTable = 
+	[
+		[ 16, 7, 2, 0, 11, 8, 17, 10 ],  // この列が初期位置
+		[ 4, 13, 6, 3, 5, 9, 14, 1 ],
+		[ 24, 21, 19, 20, 12, 15, 22, 23 ],
+		[ 99, 99, 99, 99, 99, 99, 99, 99 ],
+	],
+	SelectDefault = [ 0, 11 ],  // 初期位置 1P 2P
+
+	// 強制でフラグを立てる仕様 ※セーブデータが上書きされる
+	_FileType = 0, //
+	//_SecretFlag = 0, // クリア
+	// _SecretFlag = (1<<0), // エルトナムが使える
+
+	// 画面上部メッセージ、全角16文字まで
+	AcVsMes0 = "初心者練習中！",
+	AcVsMes1 = "乱入歓迎！ 挑戦者求む！",
+	AcVsMes2 = "ライバル募集中！",
+
+
+	Status = [],
+};
+
+Chara_Table.Status.resize(100); // てきとう
+local chara_no = Chara_Table.Status; // 登録しやすいように
+
+/*
+	※ name_short, name_long, の文字列がないと失敗
+	※ name_short は読み込み時に内部で全て小文字にされる
+	※ name_master はプログラム側から日本語キャラ名を使用したい場合とそのデータで使用される(主に勝利メッセージ抽選で使用される)
+	norandom : ランダムの抽選で選ばれなくなる（デモ抽選、キャラセレランダム）
+	
+	SecretFlag : 隠しキャラ 1:隠しキャラ（昔の仕様で今は未使用）
+	isAlive : 定義が有効か 1:有効
+	hide : 隠しキャラ　-1:隠しキャラではない
+	DLCCharaFlag : DLCキャラ扱いにして非所持で選択不可にする
+	
+	unselect = 1, //カーソルが合わなくなりランダム抽選もされない
+	
+	hideScenario : Aシナリオをクリアすると開放するBシナリオのID
+	releaseScenario : Bシナリオの開放条件になっているＡシナリオのキャラID
+	init : 初期キャラかどうか　1:初期キャラ(=ボスラッシュ1の解放条件)
+ */
+
+/*
+order並び
+
+00 アルク
+01 シエル
+02 秋葉
+03 翡翠＆琥珀
+04 遠野志貴
+05 軋間紅摩
+06 ノエル
+07 ヴローヴ
+08 ロア
+09 都古
+10 翡翠
+11 琥珀
+12 暴走アルク
+13 セイバー
+14 死徒ノエル
+15 蒼崎青子
+16 完全武装シエル
+17 マーリオゥ
+*/
+ 
+ /*
+ シナリオID
+ 
+ 0 アルクBシナリオ
+ 1 シエルBシナリオ
+ 2 マシュBシナリオ
+ 
+ */
+
+ // 
+chara_no[0] = 
+{
+	name_short="chr000",
+	name_long="Arcueid",
+	name_str="アルクェイド",
+	name_master="アルクェイド",
+	isAlive=1,
+
+	hideScenario = 0,
+	releaseScenario = 0,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 0
+}; // 
+
+// 
+chara_no[1] = 
+{
+	name_short="chr001",
+	name_long="Hisui",
+	name_str="翡翠",
+	name_master="翡翠",
+	isAlive=1,
+	hide = 1,
+	release = 7,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 10
+}; // 
+
+// 
+chara_no[2] = 
+{
+	name_short="chr002",
+	name_long="Tohno Akiha",
+	name_str="遠野秋葉",
+	name_master="遠野秋葉",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 2
+}; // 
+
+// 
+chara_no[3] = 
+{
+	name_short="chr003",
+	name_long="Tohno Shiki",
+	name_str="遠野志貴",
+	name_master="遠野志貴",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 4
+}; // 
+
+// 
+chara_no[4] = 
+{
+	name_short="chr004",
+	name_long="Kohaku",
+	name_str="琥珀",
+	name_master="琥珀",
+	isAlive=1,
+
+	hide = 2,
+	release = 7,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 11
+}; // 
+
+chara_no[5] = 
+{
+	name_short="chr005",
+	name_long="Roa",
+	name_str="ロア",
+	name_master="ロア",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 8
+}; // 
+
+chara_no[6] = 
+{
+	name_short="chr006",
+	name_long="Kishima",
+	name_str="軋間紅摩",
+	name_master="軋間紅摩",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 5
+}; // 
+
+chara_no[7] =
+{
+    name_short="chr007",
+    name_long="HisuiKohaku",
+    name_str="翡翠＆琥珀",
+    name_master="翡翠＆琥珀",
+    isAlive=1,
+
+    tag = 1, // タッグキャラかどうか
+    tag_chara_no0 = 1, // タッグキャラNo.１（翡翠）
+    tag_chara_no1 = 4, // タッグキャラNo.２（琥珀）
+
+    stage = 1,
+    bgm = 1,
+    init = 1,
+
+    order = 3
+}; //
+
+chara_no[8] = 
+{
+	name_short="chr008",
+	name_long="Noel",
+	name_str="ノエル",
+	name_master="ノエル",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 6
+}; // 
+
+chara_no[9] = 
+{
+	name_short="chr009",
+	name_long="Vlov",
+	name_str="ヴローヴ",
+	name_master="ヴローヴ",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 7
+}; // 
+
+chara_no[10] = 
+{
+	name_short="chr010",
+	name_long="BousouArcueid",
+	name_str="暴走アルクェイド",
+	name_master="暴走アルクェイド",
+	isAlive=1,
+
+	hide = 0,
+	release = 0,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 12
+}; // 
+
+chara_no[11] = 
+{
+	name_short="chr011",
+	name_long="Ciel",
+	name_str="シエル",
+	name_master="シエル",
+	isAlive=1,
+
+	hideScenario = 1,
+	releaseScenario = 11,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 1
+}; // 
+
+chara_no[12] = 
+{
+	name_short="chr012",
+	name_long="Altria",
+	name_str="セイバー",
+	name_master="セイバー",
+	isAlive=1,
+
+	hide = 3,
+	release = 10,
+	release2 = 1,
+	release3 = 4,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 13
+}; // 
+
+chara_no[13] = 
+{
+	name_short="chr013",
+	name_long="Miyako",
+	name_str="有間都古",
+	name_master="有間都古",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+	init = 1,
+
+	order = 9
+}; // 
+
+chara_no[14] = 
+{
+	name_short="chr014",
+	name_long="DeadApostleNoel",
+	name_str="死徒ノエル",
+	name_master="死徒ノエル",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+	// DLCCharaFlag=1, //DLCキャラ扱いにして非所持で選択不可にする
+
+	order = 14
+}; // 
+
+chara_no[15] = 
+{
+	name_short="chr015",
+	name_long="Aoko",
+	name_str="蒼崎青子",
+	name_master="蒼崎青子",
+	isAlive=1,
+	// DLCCharaFlag=1, //DLCキャラ扱いにして非所持で選択不可にする
+
+	stage = 1,
+	bgm = 1,
+
+	order = 15
+}; // 
+
+chara_no[16] = 
+{
+	name_short="chr016",
+	name_long="PoweredCiel",
+	name_str="完全武装シエル",
+	name_master="完全武装シエル",
+	isAlive=1,
+	// DLCCharaFlag=1, //DLCキャラ扱いにして非所持で選択不可にする
+
+	stage = 1,
+	bgm = 1,
+
+	order = 16
+}; // 
+
+chara_no[17] = 
+{
+	name_short="chr017",
+	name_long="mario",
+	name_str="マーリオゥ",
+	name_master="マーリオゥ",
+	isAlive=1,
+	// DLCCharaFlag=1, //DLCキャラ扱いにして非所持で選択不可にする
+
+	stage = 1,
+	bgm = 1,
+	
+    tag = 1, // タッグキャラかどうか
+    tag_chara_no0 = 17, // タッグキャラNo.１（マーリオゥ）
+    tag_chara_no1 = 18, // タッグキャラNo.２（シスター）
+
+	order = 17
+}; // 
+
+chara_no[18] = 
+{
+	name_short="chr018",
+	name_long="Sister",
+	name_str="シスター",
+	name_master="シスター",
+	isAlive=1,
+	//DLCキャラフラグを立てると落ちるので設定しない
+
+	stage = 1,
+	bgm = 1,
+
+	unselect = 1, //カーソルが合わなくなりランダム抽選もされない
+}; // 
+
+chara_no[19] = 
+{
+	name_short="chr019",
+	name_long="Neco",
+	name_str="ネコアルク",
+	name_master="ネコアルク",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+
+	order = 18
+}; // 
+
+chara_no[20] = 
+{
+	name_short="chr020",
+	name_long="Mash",
+	name_str="マシュ",
+	name_master="マシュ",
+	isAlive=1,
+
+	hideScenario = 2,
+	releaseScenario = 19,
+	releaseScenario2 = 20,
+
+	stage = 1,
+	bgm = 1,
+
+	order = 19
+}; // 
+
+chara_no[21] = 
+{
+	name_short="chr021",
+	name_long="Ushiwakamaru",
+	name_str="牛若丸",
+	name_master="牛若丸",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+
+	order = 20
+}; // 
+
+chara_no[22] = 
+{
+	name_short="chr022",
+	name_long="Edmond",
+	name_str="巌窟王",
+	name_master="巌窟王",
+	isAlive=1,
+
+	stage = 1,
+	bgm = 1,
+
+	order = 21
+}; // 
+
+chara_no[23] =
+{
+	name_short = "chr023",
+	name_long = "Hyde",
+	name_str = "ハイド",
+	name_master = "ハイド",
+	isAlive = 1,
+
+	stage = 1, 
+	bgm = 1, 
+
+	order = 30,
+}; // 
+
+chara_no[24] =
+{
+	name_short = "chr024",
+	name_long = "Nanaya",
+	name_str = "遠野志貴",
+	name_master = "遠野志貴",
+	isAlive = 1,
+
+	stage = 1, 
+	bgm = 1, 
+
+	order = 31,
+}; // 

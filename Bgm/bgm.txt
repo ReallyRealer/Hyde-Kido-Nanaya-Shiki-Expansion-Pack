@@ -1,0 +1,480 @@
+
+File = // ファイル名３２文字まで、拡張子なし
+IsLoop = // ループする曲かどうか
+LoopPos = // ループポイント、終端になったら戻る位置
+Volume = // ボリューム、10000で標準。小さくしかできない。※まともに動いていないので使用不可
+
+
+//戦闘中ステージＢＧＭ
+[BGM_001]
+File = stage_house //遠野邸
+IsLoop = 1
+LoopPos = 26.606
+
+[BGM_002]
+File = stage_school //学校前
+IsLoop = 1
+LoopPos = 15.694
+
+[BGM_003]
+File = stage_park //公園
+IsLoop = 1
+LoopPos = 33.041
+
+[BGM_004]
+File = stage_fountain //噴水
+IsLoop = 1
+LoopPos = 07.505
+
+[BGM_005]
+File = stage_backalley //路地裏
+IsLoop = 1
+LoopPos = 22.158
+
+[BGM_006]
+File = stage_catacombs //地下墓地
+IsLoop = 1
+LoopPos = 14.170
+
+[BGM_007]
+File = stage_sink //危険地帯
+IsLoop = 1
+LoopPos = 23.520
+
+[BGM_008]
+File = stage_house_exterior //遠野邸・外観
+IsLoop = 1
+LoopPos = 12.677
+
+[BGM_009]
+File = stage_dangerzone //危険地帯・陥没
+IsLoop = 1
+LoopPos = 10.864
+
+[BGM_010]
+File = stage_house_exterior_night //遠野邸・外観夜
+IsLoop = 1
+LoopPos = 12.806
+
+[BGM_011]
+File = stage_house_noon //遠野邸・昼
+IsLoop = 1
+LoopPos = 19.213
+
+[BGM_012]
+File = stage_school_evening //学校前・夕
+IsLoop = 1
+LoopPos = 22.164
+
+[BGM_013]
+File = stage_park_noon //公園・昼
+IsLoop = 1
+LoopPos = 12.375
+
+[BGM_014]
+File = stage_catacombs //地下墓地
+IsLoop = 1
+LoopPos = 14.170
+
+[BGM_015]
+File = stage_grassland //青子・昼
+IsLoop = 1
+LoopPos = 22.693
+
+[BGM_016]
+File = stage_grassland_night //青子・夜
+IsLoop = 1
+LoopPos = 14.308
+
+[BGM_017]
+File = stage_grassland_night //青子・夜・星ぐる
+IsLoop = 1
+LoopPos = 14.308
+
+[BGM_018]
+File = stage_rosegarden //死徒ノエル
+IsLoop = 1
+LoopPos = 20.874
+
+[BGM_019]
+File = stage_street_storage //武装シエル
+IsLoop = 1
+LoopPos = 09.905
+
+[BGM_020]
+File = stage_rooftop //マーリオゥ
+IsLoop = 1
+LoopPos = 28.414
+
+[BGM_021]
+File = stage_backalley //路地裏・夜
+IsLoop = 1
+LoopPos = 22.158
+
+[BGM_022]
+File = stage_crossing //駅前
+IsLoop = 1
+LoopPos = 22.378
+
+[BGM_023]
+File = stage_crossing //マシュ
+IsLoop = 1
+LoopPos = 22.378
+
+[BGM_024]
+File = stage_catsvillage //ネコアルク
+IsLoop = 1
+LoopPos = 23.097
+
+[BGM_025]
+File = stage_park_noon //公園・夕方（BGMは昼と同じ）
+IsLoop = 1
+LoopPos = 12.375
+
+[BGM_026]
+File = stage_fountain //噴水・夕方（BGMは昼と同じ）
+IsLoop = 1
+LoopPos = 07.505
+
+[BGM_027]
+File = stage_rooftop //屋上・昼（BGMは夜と同じ）
+IsLoop = 1
+LoopPos = 28.414
+
+[BGM_028]
+File = stage_coast //壇ノ浦
+IsLoop = 1
+LoopPos = 06.042
+
+[BGM_029]
+File = stage_prisontower //監獄島
+IsLoop = 1
+LoopPos = 10.927
+
+[BGM_030]
+File = stage_training_battle //コロシアム（BGMはトレーニング曲）
+IsLoop = 1
+LoopPos = 11.374
+
+[BGM_031]
+File = stage_training //シエル部屋（BGMはトレーニング曲）
+IsLoop = 1
+LoopPos = 29.337
+
+[BGM_032]
+File = stage_training //道場（BGMはトレーニング曲）
+IsLoop = 1
+LoopPos = 29.337
+
+[BGM_033]
+File = stage_training //有間都古の部屋（BGMはトレーニング曲）
+IsLoop = 1
+LoopPos = 29.337
+
+[BGM_034]
+File = stage_training_battle //控室（BGMはトレーニング曲）
+IsLoop = 1
+LoopPos = 11.374
+
+[BGM_035]
+File = mbaa_stage_bgm02 //Elegant Summer（遠野邸ホール・夜）
+IsLoop = 1
+LoopPos = 08.603
+
+[BGM_090]
+File = stage_training //トレーニング
+IsLoop = 1
+LoopPos = 29.337
+
+[BGM_091]
+File = stage_training_battle //トレーニング(バトル)
+IsLoop = 1
+LoopPos = 11.374
+
+
+//シーンＢＧＭ
+[BGM_040]
+File = sys_mainmenu //メインメニュー
+IsLoop = 1
+LoopPos = 42.670
+
+[BGM_041]
+File = sys_map //マップ
+IsLoop = 1
+LoopPos = 02.004
+
+[BGM_042]
+File = sys_network //ネットワークメニュー
+IsLoop = 1
+LoopPos = 15.999
+
+[BGM_043]
+File = sys_network_casual //ネットワーク・プレマ
+IsLoop = 1
+LoopPos = 07.498
+
+[BGM_044]
+File = sys_network_rank //ネットワーク・ランクマ
+IsLoop = 1
+LoopPos = 07.450
+
+[BGM_045]
+File = sys_customize //カスタマイズ
+IsLoop = 1
+LoopPos = 01.335
+
+[BGM_046]
+File = sys_option //オプション
+IsLoop = 1
+LoopPos = 02.667
+
+
+//会話ＢＧＭ
+[BGM_061]
+File = story_comical_cats //コミカルでちょっと怪しげなBGM
+IsLoop = 1
+LoopPos = 28.799
+
+[BGM_062]
+File = story_heartwarming //ほのぼのとした日常系BGM
+IsLoop = 1
+LoopPos = 19.019
+
+[BGM_063]
+File = story_everyday //落ち着いた日常系BGM
+IsLoop = 1
+LoopPos = 24.749
+
+[BGM_064]
+File = story_comical //ギャグっぽいコミカルで陽気なBGM
+IsLoop = 1
+LoopPos = 17.454
+
+[BGM_065]
+File = story_cheerful_battle //楽しくにぎやかなBGM
+IsLoop = 1
+LoopPos = 12.212
+
+[BGM_066]
+File = story_refreshing //明るい爽やかなBGM
+IsLoop = 1
+LoopPos = 09.559
+
+
+[BGM_071]
+File = story_start00 //はじまり１
+IsLoop = 1
+LoopPos = 24.000
+
+[BGM_072]
+File = story_start01 //はじまり２
+IsLoop = 1
+LoopPos = 05.333
+
+[BGM_073]
+File = story_start02 //はじまり３
+IsLoop = 1
+LoopPos = 10.666
+
+[BGM_074]
+File = story_encounter00 //エンカウント１
+IsLoop = 1
+LoopPos = 07.200
+
+[BGM_075]
+File = story_encounter01 //エンカウント２
+IsLoop = 1
+LoopPos = 16.006
+
+[BGM_076]
+File = story_end00 //おわり１
+IsLoop = 1
+LoopPos = 28.804
+
+[BGM_077]
+File = story_end01 //おわり２
+IsLoop = 1
+LoopPos = 31.999
+
+[BGM_078]
+File = story_disquiet //不穏
+IsLoop = 1
+LoopPos = 21.336
+
+
+//シーンＢＧＭ
+[BGM_081]
+File = sys_encounter //被乱入
+IsLoop = 0
+LoopPos = 0.0
+
+[BGM_082]
+File = sys_continue //コンティニュー
+IsLoop = 0
+LoopPos = 0.0
+
+[BGM_083]
+File = sys_gameover //ゲームオーバー
+IsLoop = 0
+LoopPos = 0.0
+
+[BGM_084]
+File = sys_vsdemo //ＶＳデモ
+IsLoop = 0
+LoopPos = 0.0
+
+//BGM90はトレーニングステージで予約
+//BGM91はトレーニングステージ(バトル)で予約
+
+[BGM_093]
+File = music_ed_good_short //グッドED
+IsLoop = 0
+LoopPos = 0.0
+
+[BGM_094]
+File = music_ed_bad_short //バッドED
+IsLoop = 0
+LoopPos = 0.0
+
+//デモＢＧＭ
+[BGM_098]
+File = sys_windemo //勝利
+IsLoop = 0 // 1
+LoopPos = 0.0 // 29.746
+
+[BGM_099]
+File = sys_chrselect //キャラクターセレクト
+IsLoop = 1
+LoopPos = 1.661 //11.114
+
+
+
+
+//100以降はやめとく=======
+
+//========================================================
+// 会話関係用追加曲定義(BattleRes\talk\st_bgm内で定義されてます)
+//  ※100～139まで予約中です
+//========================================================
+
+
+[BGM_150]
+File = mbaa_stage_bgm01 //Encount（高層建築・シュライン）
+IsLoop = 1
+LoopPos = 07.979
+
+[BGM_151]
+File = mbaa_stage_bgm02 //Elegant Summer（遠野邸ホール・夜）
+IsLoop = 1
+LoopPos = 08.603
+
+[BGM_152]
+File = mbaa_stage_bgm13 //The end of 1000 years（千年城ブリュンスタッド）
+IsLoop = 1
+LoopPos = 06.677
+
+[BGM_153]
+File = mbaa_stage_bgm08 //Midnight Raider（無影公園）
+IsLoop = 1
+LoopPos = 07.715
+
+[BGM_154]
+File = mbaa_stage_bgm10 //The theme of Arcueid（死角の辻）
+IsLoop = 1
+LoopPos = 06.403
+
+[BGM_155]
+File = mbaa_stage_bgm07 //for Crimson Air（シュライン最上階・朱月）
+IsLoop = 1
+LoopPos = 13.029
+
+[BGM_156]
+File = mbaa_stage_bgm41 //SAKURA-KOI-UTA（桜花繚乱）
+IsLoop = 1
+LoopPos = 16.637
+
+[BGM_157]
+File = mbaa_stage_bgm04 //Fearless（影絵の悪夢）
+IsLoop = 1
+LoopPos = 20.010
+
+[BGM_158]
+File = mbaa_stage_bgm27 //Obscure Zone（廃棄空間）
+IsLoop = 1
+LoopPos = 08.620
+
+[BGM_159]
+File = mbaa_stage_bgm28 //Modernism Street(不夜の賑わい）
+IsLoop = 1
+LoopPos = 10.741
+
+
+[BGM_160]
+File = mbaa_stage_bgm21 //Basilica（主よ導き救い給え）
+IsLoop = 1
+LoopPos = 11.875
+
+[BGM_161]
+File = mbaa_stage_bgm05 //Noble Mind（遠野邸・正面入り口）
+IsLoop = 1
+LoopPos = 00.988
+
+[BGM_162]
+File = mbaa_stage_bgm39 //Strange Dreamer（午前零時の逢瀬）
+IsLoop = 1
+LoopPos = 07.206
+
+[BGM_163]
+File = mbaa_stage_bgm50 //Nightmare Teller（開放）
+IsLoop = 1
+LoopPos = 22.011
+
+[BGM_164]
+File = mbaa_stage_bgm18 //Beat from "Melty Blood"（魔法使いの夜）
+IsLoop = 1
+LoopPos = 11.806
+
+[BGM_165]
+File = mbaa_stage_bgm20 //Wonderful boy（始まりの丘）
+IsLoop = 1
+LoopPos = 08.656
+
+[BGM_166]
+File = mbaa_stage_bgm25 //Tenseness（遠野邸・螺旋書庫）
+IsLoop = 1
+LoopPos = 04.354
+
+[BGM_167]
+File = mbaa_stage_bgm19 //Fairy Tale transparently（夏に降る雪）
+IsLoop = 1
+LoopPos = 14.471
+
+[BGM_168]
+File = mbaa_stage_bgm42 //Rhythmical Bustle（無人の街並み）
+IsLoop = 1
+LoopPos = 06.456
+
+[BGM_169]
+File = mbaa_stage_bgm56 //O-sutra Hit（奉納殿六十四層）
+IsLoop = 1
+LoopPos = 38.088
+
+[BGM_170]
+File = FGOA_FatalBattle
+IsLoop = 1
+LoopPos = 6.768
+
+[BGM_171]
+File = chr_00Hyd
+IsLoop = 1
+LoopPos = 39.863
+
+[BGM_172]
+File = Fortissimo_of_Stillness
+IsLoop = 1
+LoopPos = 00.000
+
+
+
+
+//199番まで使用可能です。200番以降はプログラムの修正が必要です

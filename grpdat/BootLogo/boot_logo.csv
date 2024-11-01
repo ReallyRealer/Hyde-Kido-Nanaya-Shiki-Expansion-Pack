@@ -1,0 +1,9 @@
+ac,grpdat/BootLogo/logo_tm,180,0,65565,281,0,65565
+,grpdat/BootLogo/logo_dw,180,0,65565,282,0,65565
+,grpdat/BootLogo/logo_fb,180,0,65565,283,0,65565
+,-1,,,,,
+jp,grpdat/BootLogo/logo_tm,180,60,1,281,0,65565
+,grpdat/BootLogo/logo_dw,180,60,1,282,0,65565
+,grpdat/BootLogo/logo_fb,180,60,1,283,0,65565
+,-1,,,,,
+-1,-1,,,,,

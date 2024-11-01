@@ -1,0 +1,200 @@
+[00]
+num = 1
+name = <GR_BG_MBTL_Music001> (<GR_BG_Stage001>)
+
+[01]
+num = 11
+name = <GR_BG_MBTL_Music011> (<GR_BG_Stage011>)
+
+[02]
+num = 8
+name = <GR_BG_MBTL_Music008> (<GR_BG_Stage008>)
+
+[03]
+num = 10
+name = <GR_BG_MBTL_Music010> (<GR_BG_Stage010>)
+
+[04]
+num = 2
+name = <GR_BG_MBTL_Music002> (<GR_BG_Stage002>)
+
+[05]
+num = 12
+name = <GR_BG_MBTL_Music012> (<GR_BG_Stage012>)
+
+[06]
+num = 3
+name = <GR_BG_MBTL_Music003> (<GR_BG_Stage003>)
+
+[07]
+num = 13
+name = <GR_BG_MBTL_Music013> (<GR_BG_Stage013>)
+
+[08]
+num = 4
+name = <GR_BG_MBTL_Music004> (<GR_BG_Stage004>)
+
+[09]
+num = 5
+name = <GR_BG_MBTL_Music005> (<GR_BG_Stage005>)
+
+[10]
+num = 7
+name = <GR_BG_MBTL_Music007> (<GR_BG_Stage007>)
+
+[11]
+num = 9
+name = <GR_BG_MBTL_Music009> (<GR_BG_Stage009>)
+
+[12]
+num = 6
+name = <GR_BG_MBTL_Music006> (<GR_BG_Stage006>)
+
+[13]
+num = 18
+name = <GR_BG_MBTL_Music018> (<GR_BG_Stage018>)
+// DLC = 1 //死徒ノエル
+
+[14]
+num = 15
+name = <GR_BG_MBTL_Music015> (<GR_BG_Stage015>)
+// DLC = 2 //蒼崎青子
+
+[15]
+num = 16
+name = <GR_BG_MBTL_Music016> (<GR_BG_Stage016>)
+// DLC = 2 //蒼崎青子
+
+[16]
+num = 19
+name = <GR_BG_MBTL_Music019> (<GR_BG_Stage019>)
+// DLC = 3 //完全武装シエル
+
+[17]
+num = 20
+name = <GR_BG_MBTL_Music020> (<GR_BG_Stage020>)
+// DLC = 4 //マーリオゥ
+
+[18]
+num = 24
+name = <GR_BG_MBTL_Music024> (<GR_BG_Stage024>)
+//ネコ
+
+[19]
+num = 23
+name = <GR_BG_MBTL_Music023> (<GR_BG_Stage023>)
+//マシュ
+
+[20]
+num = 28
+name = <GR_BG_MBTL_Music028> (<GR_BG_Stage028>)
+//牛若丸
+
+[21]
+num = 29
+name = <GR_BG_MBTL_Music029> (<GR_BG_Stage029>)
+//巌窟王
+
+[22]
+num = 90
+name = <GR_BG_MBTL_Music090> (<GR_BG_Stage090>)
+
+[23]
+num = 91
+name = <GR_BG_MBTL_Music091> (<GR_BG_Stage090>)
+
+
+//MBAA曲
+[24]
+num = 150
+name = <GR_BG_MBAA_Music150> (<GR_BG_StageMBAA>)
+
+[25]
+num = 151
+name = <GR_BG_MBAA_Music151> (<GR_BG_StageMBAA>)
+
+[26]
+num = 152
+name = <GR_BG_MBAA_Music152> (<GR_BG_StageMBAA>)
+
+[27]
+num = 153
+name = <GR_BG_MBAA_Music153> (<GR_BG_StageMBAA>)
+
+[28]
+num = 154
+name = <GR_BG_MBAA_Music154> (<GR_BG_StageMBAA>)
+
+[29]
+num = 155
+name = <GR_BG_MBAA_Music155> (<GR_BG_StageMBAA>)
+
+[30]
+num = 156
+name = <GR_BG_MBAA_Music156> (<GR_BG_StageMBAA>)
+
+[31]
+num = 157
+name = <GR_BG_MBAA_Music157> (<GR_BG_StageMBAA>)
+
+[32]
+num = 158
+name = <GR_BG_MBAA_Music158> (<GR_BG_StageMBAA>)
+
+[33]
+num = 159
+name = <GR_BG_MBAA_Music159> (<GR_BG_StageMBAA>)
+
+
+//MBAA曲2
+[34]
+num = 160
+name = <GR_BG_MBAA_Music160> (<GR_BG_StageMBAA>)
+
+[35]
+num = 161
+name = <GR_BG_MBAA_Music161> (<GR_BG_StageMBAA>)
+
+[36]
+num = 162
+name = <GR_BG_MBAA_Music162> (<GR_BG_StageMBAA>)
+
+[37]
+num = 163
+name = <GR_BG_MBAA_Music163> (<GR_BG_StageMBAA>)
+
+[38]
+num = 164
+name = <GR_BG_MBAA_Music164> (<GR_BG_StageMBAA>)
+
+[39]
+num = 165
+name = <GR_BG_MBAA_Music165> (<GR_BG_StageMBAA>)
+
+[40]
+num = 166
+name = <GR_BG_MBAA_Music166> (<GR_BG_StageMBAA>)
+
+[41]
+num = 167
+name = <GR_BG_MBAA_Music167> (<GR_BG_StageMBAA>)
+
+[42]
+num = 168
+name = <GR_BG_MBAA_Music168> (<GR_BG_StageMBAA>)
+
+[43]
+num = 169
+name = <GR_BG_MBAA_Music169> (<GR_BG_StageMBAA>)
+
+[44]
+num = 171
+name = Scraper Sky High
+
+[45]
+num = 172
+name = 静寂のフォルティッシモ
+
+[46]
+num = 170
+name = Fatal Battle

@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_chr024
+[DataFile]
+FileNum= 1
+File00=csel_chr024.ha6
+[BmpcutFile]
+FileNum= 1
+File00=csel_chr024.cg
+[PAniFile]
+FileNum= 0

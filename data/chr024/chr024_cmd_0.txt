@@ -1,0 +1,222 @@
+//コマンドテーブル skillは格ゲーコマンド表記
+btl_debPrint2("\n[chr003_cmd_0.txt]");
+local cmd = {};
+
+cmd.Atk_BackDashAdd <- {
+	posstatus = _PosState_Always,
+	num = def_CN_Skill_AddCommand1,
+	command = ["404@F,1@","4+A+B"],
+	flags = [ "roundstart","lastdelay" ],
+	CmdAfterFunc = function()
+	{
+		BMvTbl.SetPP(defc_PP_Chr003_BackDash_CmdSt,1);//予約だけする
+		return 0; // 必ず失敗
+	},
+	CmdCheck = 
+	{
+		SkillType = "AddCommand", 
+		ParamFlagCheck = { Only = { [2]=8 } },
+		MvCheck = { Only = ["Mv_Dash_B"] },
+	},
+	UpdateTable = { name = "Mv_Atk_BackDashAdd", }
+}
+
+cmd.Atk_BackDashAdd_Auto <- {
+	posstatus = _PosState_Always,
+	num = def_CN_Skill_AddCommand2,
+	command = ["!"],
+	flags = [ "roundstart","lastdelay" ],
+	CmdAfterFunc = function()
+	{
+		if( BMvTbl.GetMvStatus().FrameID != 150 ) return 0; // 先行入力のが出るタイミング
+		if( BMvTbl.GetPP(defc_PP_Chr003_BackDash_CmdSt)!=1 ) return 0; // 予約があったら出る
+		return 1;
+	},
+	CmdCheck = 
+	{
+		SkillType = "AddCommand", 
+		ParamFlagCheck = { Only = { [2]=8 } },
+		MvCheck = { Only = ["Mv_Dash_B"] },
+	},
+	UpdateTable = { name = "Mv_Atk_BackDashAdd", }
+}
+
+// メモ : command = "!" と BCMDTbl.GetSuccessButtonPos() を一緒に使うとBMvTbl.IsCpu()のときおかしくなる
+
+cmd.Skill_236A <- {};
+cmd.Skill_236BorC <- {};
+cmd.Skill_236EX <- {};
+cmd.Skill_236BC <- {};
+
+cmd.Skill_236BC_Add <- {
+	num = def_CN_Skill_AddCommand5,
+	command = ["B"],
+	HitStatus = "Damage",
+	
+	CmdCheck = 
+		{
+			SkillType = "AddCommand"
+			MvCheck = { Only = ["Mv_Skill_236BC"] },
+			FrameIDCheck = { Only = 10 },
+		},
+	UpdateTable = { name = "Mv_Skill_236BC_Add", },
+};
+
+cmd.Skill_623A <- {};
+
+cmd.Skill_623A_Add <- {
+	num = def_CN_Skill_AddCommand5,
+	command = ["0+A"], posstatus = _PosState_Air,
+	
+	CmdCheck = 
+		{
+			SkillType = "AddCommand"
+			HitStatus = "Damage",
+			MvCheck = { Only = ["Mv_Skill_623A"] },
+			PosState = "Air",
+			FrameIDCheck = { Only = 10 },
+		},
+	UpdateTable = { name = "Mv_Skill_623A_Add", },
+};
+
+cmd.Skill_623BorC <- {};
+
+cmd.Skill_623B_Add <- {
+	num = def_CN_Skill_AddCommand5,
+	command = ["0+B", "0+A", "0+C"], posstatus = _PosState_Air,
+	
+	CmdCheck = 
+		{
+			SkillType = "AddCommand"
+			HitStatus = "Damage",
+			MvCheck = { Only = ["Mv_Skill_623B"] },
+			PosState = "Air",
+			FrameIDCheck = { Only = 10 },
+		},
+	UpdateTable = { name = "Mv_Skill_623B_Add", },
+};
+
+cmd.Skill_623EX <- {};
+cmd.Skill_623BC <- {};
+
+//cmd.Skill_214A <- {};
+cmd.Skill_214B <- {};
+cmd.Skill_214C <- {};
+cmd.Skill_214BC <- 
+{
+	command = ["2+B+C"]
+};
+
+cmd.Skill_214BC_Add <- {
+	num = def_CN_Skill_AddCommand5,
+	command = ["A"],
+	
+	CmdCheck = 
+		{
+			SkillType = "AddCommand"
+			MvCheck = { Only = ["Mv_Skill_214BC"] },
+			FrameIDCheck = { Only = 10 },
+		},
+	UpdateTable = { name = "Mv_Skill_214BC_Add", },
+};
+
+cmd.Skill_214BC_AddAlt <- {
+	num = def_CN_Skill_AddCommand5,
+	command = ["B"],
+	
+	CmdCheck = 
+		{
+			SkillType = "AddCommand"
+			MvCheck = { Only = ["Mv_Skill_214BC"] },
+			FrameIDCheck = { Only = 10 },
+		},
+	UpdateTable = { name = "Mv_Skill_214BC_AddAlt", },
+};
+
+cmd.Skill_214BC_Add_Add <- {
+	num = def_CN_Skill_AddCommand5,
+	command = ["0+A"],
+	
+	CmdCheck = 
+		{
+			SkillType = "AddCommand"
+			MvCheck = { Only = ["Mv_Skill_214BC_Add"] },
+			FrameIDCheck = { Only = 20 },
+		},
+	UpdateTable = { name = "Mv_Skill_214BC_Add_Add", },
+};
+
+cmd.Skill_214BC_Add_Add4 <- {
+	num = def_CN_Skill_AddCommand5,
+	command = ["4+A"],
+	
+	CmdCheck = 
+		{
+			SkillType = "AddCommand"
+			MvCheck = { Only = ["Mv_Skill_214BC_Add"] },
+			FrameIDCheck = { Only = 20 },
+		},
+	UpdateTable = { name = "Mv_Skill_214BC_Add_Add4", },
+};
+
+cmd.Skill_214BC_AddB <- {
+	num = def_CN_Skill_AddCommand5,
+	command = ["0+B"],
+	
+	CmdCheck = 
+		{
+			SkillType = "AddCommand"
+			MvCheck = { Only = ["Mv_Skill_214BC_Add"] },
+			FrameIDCheck = { Only = 10 },
+		},
+	UpdateTable = { name = "Mv_Skill_214BC_AddB", },
+};
+
+cmd.Skill_214BC_AddB4 <- {
+	num = def_CN_Skill_AddCommand5,
+	command = ["4+B"],
+	
+	CmdCheck = 
+		{
+			SkillType = "AddCommand"
+			MvCheck = { Only = ["Mv_Skill_214BC_Add"] },
+			FrameIDCheck = { Only = 10 },
+		},
+	UpdateTable = { name = "Mv_Skill_214BC_AddB4", },
+};
+
+cmd.Skill_0202A <- 
+{
+	command = ["214+A"]
+};
+
+cmd.Skill_0202B <- {};
+cmd.Skill_0202C <- {};
+cmd.Skill_0202BC <- 
+{
+	command = ["4+B+C", "1+B+C"]
+};
+
+cmd.Skill_0202D <- 
+{
+	command = ["0202+A"]
+};
+
+cmd.Atk_Std3C <- {};
+cmd.Throw_A <- {};
+
+cmd.Skill_J0202A <- 
+{
+	command = ["0202"]
+};
+
+cmd.Atk_Air2B <- {};
+
+cmd.Skill_41236SP <- {};
+
+cmd.Skill_LastArcBlast <- {};
+// cmd.LastArc <- {};	
+
+CHR024_CommandTable <- Battle_Std.MakeCommandTable( { command=cmd } );
+
+_dp(" -> Load OK");

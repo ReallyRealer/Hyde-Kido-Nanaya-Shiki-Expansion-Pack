@@ -1,0 +1,1 @@
+__dofile__( "./data/chr003/chr003_com_0.txt" );
