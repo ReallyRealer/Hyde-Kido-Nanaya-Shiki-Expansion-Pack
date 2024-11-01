@@ -26,7 +26,9 @@ https://github.com/user-attachments/assets/a62ffdda-d49e-49b8-a919-eebd01efbba6
 - J2B (kick dive)
 - 214x is a new series (mainly just reused his boss rush 0202D adds but as separate moves)
 - 2BC is a TP stance that can be canceled into A or B (holding backwards will make him go the opposite direction) you can also cancel into A twice or A into B
+- 4BC is just Tohno Shiki's regular one since it was already fine
 - 6BC is a special version of his regular 236x series where he'll uppercut upon hit and if you press B upon hitting you'll be able to cancel into his upwards TP
+- 3BC is Tohno Shiki's except this time upon successful hit he'll cancel into his flip automatically 
 
 
 
