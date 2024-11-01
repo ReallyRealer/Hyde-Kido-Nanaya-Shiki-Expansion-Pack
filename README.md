@@ -16,6 +16,8 @@ https://github.com/user-attachments/assets/a62ffdda-d49e-49b8-a919-eebd01efbba6
 
 # Movesets
 **Hyde** - Literally just this https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde
+
+
 **Nanaya** 
 - J0202 (fastfall by double tapping down in midair)
 - 623A + A (cancels 623A into a fastfall)
