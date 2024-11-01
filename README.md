@@ -4,6 +4,7 @@ My mod that features a (UNi2) Hyde port & a custom Nanaya that has alternated ve
 
 Atm this is only my FB project
 
+**CREDITS:** MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Drive & Last Arc) 
 
 https://github.com/user-attachments/assets/532bb359-041e-4f89-a45b-35b3bc818b70
 
