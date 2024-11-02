@@ -23,6 +23,7 @@ I forgor that he has moon skills lol
 - 2BC (2FF from UNi2)
 - 4BC (Smart Steer from UNi2)
 - j4BC (Smart Steer from UNi2 except this time it's in the air)
+- j214x series also exists
 
 
 **Nanaya** 
