@@ -18,6 +18,11 @@ https://github.com/user-attachments/assets/a62ffdda-d49e-49b8-a919-eebd01efbba6
 
 # Movesets
 **Hyde** - Literally just this https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde (his Arc Drive is 41236+D like UNi though and Veil Bringer is 236BC like UNi2 as well)
+I forgor that he has moon skills lol
+- 6BC (5FF from UNi)
+- 2BC (2FF from UNi2)
+- 4BC (Smart Steer from UNi2)
+- j4BC (Smart Steer from UNi2 except this time it's in the air)
 
 
 **Nanaya** 
