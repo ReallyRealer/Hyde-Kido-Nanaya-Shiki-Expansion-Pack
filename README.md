@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/532bb359-041e-4f89-a45b-35b3bc818b70
 https://github.com/user-attachments/assets/a62ffdda-d49e-49b8-a919-eebd01efbba6
 
 # Movesets
-**Hyde** - Literally just [this](https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde) (his Arc Drive is 41236+D like UNi though and Veil Bringer is 236BC like UNi2 as well)
+**Hyde** - Literally just [this](https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde#Move_List) (his Arc Drive is 41236+D like UNi though and Veil Bringer is 236BC like UNi2 as well)
 
 I forgor that he has moon skills lol
 - 6BC (5FF from UNi)
