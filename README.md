@@ -8,6 +8,8 @@ Atm this is only my second FB project
 
 and [Fatih120 ](https://github.com/Fatih120) for making the Nanaya idle sprite edit
 
+**PLEASE DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases) OR ELSE IT WILL NOT WORK DUE TO THE FILES IN MAIN BEING BROKEN**
+
 # Trailer
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wU6msn0UArA/0.jpg)](https://www.youtube.com/watch?v=wU6msn0UArA)
 
