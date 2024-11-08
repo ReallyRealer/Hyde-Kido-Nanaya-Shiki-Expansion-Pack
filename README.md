@@ -8,9 +8,11 @@ Atm this is only my second FB project
 
 and [Fatih120 ](https://github.com/Fatih120) for making the Nanaya idle sprite edit
 
-**~~PLEASE DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases) OR ELSE IT WILL NOT WORK DUE TO THE FILES IN MAIN BEING BROKEN~~** Downloading from Main should work properly now 👍
+**~~PLEASE DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases) OR ELSE IT WILL NOT WORK DUE TO THE FILES IN MAIN BEING BROKEN~~** 
 
-**ALSO DOWNLOAD THE UPDATED VECTORTABLE FROM [HERE](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/blob/main/data/VectorTable.txt) AS THE ONE IN RELEASES IS OUTDATED/BROKEN PLEASE PLACE IT IN THE DATA FOLDER**
+Downloading from Main should work properly now 👍
+
+**ALSO DOWNLOAD THE UPDATED VECTORTABLE FROM [HERE](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/blob/main/data/VectorTable.txt) AS THE ONE IN RELEASES IS OUTDATED/BROKEN. PLEASE PLACE IT IN THE DATA FOLDER**
 
 # Trailer
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wU6msn0UArA/0.jpg)](https://www.youtube.com/watch?v=wU6msn0UArA)
