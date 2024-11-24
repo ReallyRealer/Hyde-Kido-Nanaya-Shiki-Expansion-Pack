@@ -4,6 +4,8 @@ My mod that features a (UNi2) Hyde port & a custom Nanaya that has alternated ve
 
 Atm this is only my second FB project
 
+EX Tohno is selectable by pressing down while on Nanaya or up while on P.Ciel
+
 **CREDITS:** MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Drive & Last Arc)
 
 and [Fatih120 ](https://github.com/Fatih120) for making the Nanaya idle sprite edit
