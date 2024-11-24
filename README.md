@@ -49,7 +49,7 @@ I forgor that he has moon skills lol
 - New 0202x series
 - J0202D is a downwards TP
 - J0202BC (2BC in midair) is J0202D except way faster
-- MBAACC Tohno's standing B is back (press B again after 5B it can also be increased if you hold it)
+- MBAACC Tohno's standing B add is back (press B again after 5B it can also be increased if you hold it)
 - New Arc Drive
 - New Last Arc
 
