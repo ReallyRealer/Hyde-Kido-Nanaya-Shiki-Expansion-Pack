@@ -8,13 +8,10 @@ Atm this is only my second FB project
 
 and [Fatih120 ](https://github.com/Fatih120) for making the Nanaya idle sprite edit
 
-**~~PLEASE DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases) OR ELSE IT WILL NOT WORK DUE TO THE FILES IN MAIN BEING BROKEN~~** 
-
-Downloading from Main should work properly now 👍
-
-**ALSO DOWNLOAD THE UPDATED VECTORTABLE FROM [HERE](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/blob/main/data/VectorTable.txt) AS THE ONE IN RELEASES IS OUTDATED/BROKEN. PLEASE PLACE IT IN THE DATA FOLDER**
+**PLEASE DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases) AS MAIN ISN'T UPDATED TO V2 YET** 
 
 # Trailer
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wOhzSrCsMzg/0.jpg)](https://www.youtube.com/watch?v=wOhzSrCsMzg)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wU6msn0UArA/0.jpg)](https://www.youtube.com/watch?v=wU6msn0UArA)
 
 https://github.com/user-attachments/assets/532bb359-041e-4f89-a45b-35b3bc818b70
@@ -42,7 +39,17 @@ I forgor that he has moon skills lol
 - 2BC is a TP stance that can be canceled into A or B (holding backwards will make him go the opposite direction) you can also cancel into A twice or A into B
 - 4BC is just Tohno Shiki's regular one since it was already fine
 - 6BC is a special version of his regular 236x series where he'll uppercut upon hit and if you press B upon hitting you'll be able to cancel into his upwards TP
-- 3BC is Tohno Shiki's except this time upon successful hit he'll cancel into his flip automatically 
+- 3BC is Tohno Shiki's except this time upon successful hit he'll cancel into his flip automatically
 
+**EX Tohno** 
+- 236x (minus EX) is now a rekka series where mashing A or B leads to different enders (A launches them away and B is an uppercut)
+- 236EX is basically MBAACC Tohno except he'll pause to catch his knife, pressing C right before it ends will make him do a follow-up attack that costs no meter at all
+- J0202x new aerial series based on MBAACC
+- Every 623/J236 move is alternated
+- New 0202x series
+- J0202D is a downwards TP
+- J0202BC (2BC in midair) is J0202D except way faster
+- New Arc Drive
+- New Last Arc
 
 
