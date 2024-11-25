@@ -67,5 +67,18 @@ I forgor that he has moon skills lol
 
 To re-enable just change it back to "system" (Note that enabling/disabling requires you to relaunch the game)
 
+# How to use alternate BGM files
+
+![image](https://github.com/user-attachments/assets/197c364f-050f-4262-b156-1683851a58f8)
+
+Lets say you wanted to use V1 BGM..
+
+1. Open the "Bgm" folder
+2. Rename "bgm - v1 + new.txt" to just "bgm.txt" (beforehand remember to rename, move, or delete the current "bgm.txt")
+3. Relaunch game
+
+Basically same process if you want to switch to v2 alt bgm
+
+
 
 
