@@ -71,6 +71,8 @@ I forgor that he has moon skills lol
 - J0202D is a downwards TP
 - J0202BC (2BC in midair) is J0202D except way faster
 - MBAACC Tohno's standing B add is back (press B again after 5B it can also be increased if you hold it)
+- 214x adds reworked (214EX is more similar to MBAACC except doesn't force a wall bounce unless near)
+- 214EX can be canceled into feint by pressing D or doing the feint input
 - New Arc Drive
 - New Last Arc
 
