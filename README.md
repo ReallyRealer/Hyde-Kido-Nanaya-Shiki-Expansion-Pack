@@ -56,3 +56,16 @@ I forgor that he has moon skills lol
 - New Last Arc
 
 
+# How to enable/disable Hyde announcer
+
+![image](https://github.com/user-attachments/assets/0a65a0b9-52cd-4c8c-b067-73585b4f9155)
+
+1. Open the "se" folder
+2. Next open the "normal_se" folder
+3. Then open the "announce" folder
+4. Finally just rename the "system" folder to like anything else (ex. "hyd_system")
+
+To re-enable just change it back to "system" (Note that enabling/disabling requires you to relaunch the game)
+
+
+
