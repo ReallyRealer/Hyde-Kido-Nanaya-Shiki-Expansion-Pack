@@ -20,9 +20,24 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wOhzSrCsMzg/0.jpg)](https://www.youtube.com/watch?v=wOhzSrCsMzg)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wU6msn0UArA/0.jpg)](https://www.youtube.com/watch?v=wU6msn0UArA)
 
-https://github.com/user-attachments/assets/532bb359-041e-4f89-a45b-35b3bc818b70
+
+# Showcase
+
+![image](https://github.com/user-attachments/assets/9c45fb71-b476-4d6a-8f93-ee6cf92e3d52)
+
+
+https://github.com/user-attachments/assets/04555d53-f3cf-4388-b89f-9aa85c02f310
+
 
 https://github.com/user-attachments/assets/a62ffdda-d49e-49b8-a919-eebd01efbba6
+
+
+
+https://github.com/user-attachments/assets/d5b2ac05-d72a-458f-8db1-3fc196e8a6f0
+
+
+
+
 
 # Movesets
 **Hyde** - Literally just [this](https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde#Move_List) (his Arc Drive is 41236+D like UNi though and Veil Bringer is 236BC like UNi2 as well)
