@@ -6,9 +6,13 @@ Atm this is only my second FB project
 
 EX Tohno is selectable by pressing down while on Nanaya or up while on P.Ciel
 
-**CREDITS:** MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Drive & Last Arc)
+**CREDITS:** 
 
-and [Fatih120 ](https://github.com/Fatih120) for making the Nanaya idle sprite edit
+MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Drive & Last Arc)
+
+[Fatih120 ](https://github.com/Fatih120) for making the Nanaya idle sprite edit
+
+[Waffle House stage](https://gamebanana.com/mods/367862) by [NOGAMES](https://gamebanana.com/members/2108630) 
 
 **PLEASE DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases) AS MAIN ISN'T UPDATED TO V2 YET** 
 
@@ -79,6 +83,49 @@ Lets say you wanted to use V1 BGM..
 
 Basically same process if you want to switch to v2 alt bgm
 
+# V2 Patch Notes
+
+**Hyde** 
+-  Adjusted vectors on 2B
+-  J.5[C] startup increased
+-  2B (first hit) vector changed so that you can combo into 5[C] properly
+-  Enemies now flash red on specific moves to be more accurate to UNi
+-  Forward throw doesn't launch as far anymore
+-  Vacant shift now emulates UNi better
+-  Aerial vacant shift doesn't combo extend normally anymore (with the exception of J4BC)
+-  236_236A (dark lotus add) now shoots them slightly higher
+-  J236x launches the opponent higher
+-  Slightly adjusted slowmo effect of Arc Drive
+-  Raging Roar is more accurate to UNi now
+-  Subtitles added to Raging Roar
+-  Rest of his cutins finally added (and fixed up)
+-  236_236B launches the opponent forward now
+-  Collision boxes more accurate to MBTL (makes it so that he won't fly over the opponent and not fly out of the opponent's combos)
+
+**Nanaya**
+
+Stayed the same for the most part
+- 214B (far range) can now be jump canceled upon successful hit
+- Fixed name typo in battle
+
+**EX Tohno**
+
+He just got here so he's just unchanged lol
+
+![image](https://github.com/user-attachments/assets/6bc16880-20c6-4f19-82f9-8014f8bec7a0)
+
+
+- Selectable by going either down from Nanaya or up from P.Ciel
+
+
+
+**Other**
+- New character select screen
+- New BGM in CSS/Menu
+- New Battle BGMs
+- Waffle House stage added by [NOGAMES on GameBanana](https://gamebanana.com/members/2108630)
+- Custom color support added
+- Single player support added (arcade, time attack, boss rush, etc.)
 
 
 
