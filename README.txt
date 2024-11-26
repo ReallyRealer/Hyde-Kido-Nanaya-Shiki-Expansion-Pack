@@ -3,7 +3,7 @@ Thanks for downloading my random mod!
 Anyways to install it you straight up just copy every file from this folder into the root of MBTL.
 Then boot up the game and it should work!
 
-Hyde - Literally just this https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde (his Arc Drive is 41236+D like UNi though and Veil Bringer is 236BC like UNi2 as well)
+Hyde - Literally just this https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde (his Arc Drive is 41236+D like UNi though and Veil Bringer is 236BC like UNi2 as well) 
 
 6BC (5FF from UNi)
 2BC (2FF from UNi2)
