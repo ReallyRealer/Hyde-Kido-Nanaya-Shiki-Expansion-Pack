@@ -11,7 +11,7 @@ Hyde - Literally just this https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde 
 j4BC (Smart Steer from UNi2 except this time it's in the air)
 j214x series also exists
 
-Nanaya
+Nanaya:
 
 J0202 (fastfall by double tapping down in midair)
 623A + A (cancels 623A into a fastfall)
