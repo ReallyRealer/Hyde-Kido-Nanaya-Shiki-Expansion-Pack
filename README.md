@@ -135,6 +135,11 @@ He just got here so he's just unchanged lol
 - Selectable by going either down from Nanaya or up from P.Ciel
 
 
+# V2.0.1 Patch Notes
+
+- Fixed some of Hyde's boxes
+
+
 
 **Other**
 - New character select screen
