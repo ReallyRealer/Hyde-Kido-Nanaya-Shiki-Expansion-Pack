@@ -118,6 +118,7 @@ Basically same process if you want to switch to v2 alt bgm
 -  Rest of his cutins finally added (and fixed up)
 -  236_236B launches the opponent forward now
 -  Collision boxes more accurate to MBTL (makes it so that he won't fly over the opponent and not fly out of the opponent's combos)
+-  Standing throw's damage buffed from 1420 to 1500 to meet MBTL standards
 
 **Nanaya**
 
