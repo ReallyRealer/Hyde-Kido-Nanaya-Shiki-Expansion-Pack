@@ -67,6 +67,7 @@ I forgor that he has moon skills lol
 - 236EX is basically MBAACC Tohno except he'll pause to catch his knife, pressing C right before it ends will make him do a follow-up attack that costs no meter at all
 - J0202x new aerial series based on MBAACC
 - Every 623/J236 move is alternated
+- 623EX can be jump canceled on either the first or second flip
 - New 0202x series
 - J0202D is a downwards TP
 - J0202BC (2BC in midair) is J0202D except way faster
