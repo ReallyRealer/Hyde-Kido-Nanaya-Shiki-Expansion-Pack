@@ -17,6 +17,7 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 **PLEASE DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases) AS MAIN ISN'T UPDATED TO V2 YET** 
 
 # Trailer
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2hXgKpWCHTU/0.jpg)](https://www.youtube.com/watch?v=2hXgKpWCHTU)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wOhzSrCsMzg/0.jpg)](https://www.youtube.com/watch?v=wOhzSrCsMzg)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wU6msn0UArA/0.jpg)](https://www.youtube.com/watch?v=wU6msn0UArA)
 
