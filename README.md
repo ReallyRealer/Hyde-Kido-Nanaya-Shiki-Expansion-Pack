@@ -160,7 +160,7 @@ He just got here so he's just unchanged lol
 # V2.1b Patch Notes
 **Nanaya**
 - 623B & 623BC adjusted scaling
-- 214B buffed damage slightly (1400 -> 1500)
+- 214B buffed damage slightly (Close: 1400 -> 1500 | Far Range: 1500 -> 1600 )
 - New Arc Drive with two versions (Regular & HEAT)
 - Regular comes out faster but is weaker, blockable, and has less overall range
 - HEAT comes out slower but is stronger, unblockable, has more range, and creates a clone
@@ -168,3 +168,4 @@ He just got here so he's just unchanged lol
 - 214EX added (Basically from H-Nanaya in MBAACC)
 - 214BC added (214EX but weaker and no iframes, has armor on startup and can be jump cancelable any time after the upwards kick though)
 - 2C (first hitbox) reduced dmg (900 -> 750)
+- 
