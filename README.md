@@ -161,3 +161,4 @@ He just got here so he's just unchanged lol
 - J2B is now OTG (first hitbox still slams them like in the earlier versions, you need to be at a certain height for the OTG)
 - 214EX added (Basically from H-Nanaya in MBAACC)
 - 214BC added (214EX but weaker and no iframes, has armor on startup and can be jump cancelable any time after the upwards kick though)
+- 2C (first hitbox) reduced dmg (900 -> 750)
