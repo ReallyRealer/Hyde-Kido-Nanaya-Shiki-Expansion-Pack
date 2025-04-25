@@ -62,6 +62,11 @@ I forgor that he has moon skills lol
 - 4BC is just Tohno Shiki's regular one since it was already fine
 - 6BC is a special version of his regular 236x series where he'll uppercut upon hit and if you press B upon hitting you'll be able to cancel into his upwards TP
 - 3BC is Tohno Shiki's except this time upon successful hit he'll cancel into his flip automatically
+- J214EX (From H-Nanaya in MBAACC)
+- J214BC (J214EX but weaker and has armor, can be jump cancelable anytime after the second kick)
+- New Arc Drive with two versions (Regular & HEAT)
+- Regular comes out faster but is weaker, blockable, and has less overall range
+- HEAT comes out slower but is stronger, unblockable, has more range, and creates a clone
 
 **EX Tohno** 
 - 236x (minus EX) is now a rekka series where mashing A or B leads to different enders (A launches them away and B is an uppercut)
