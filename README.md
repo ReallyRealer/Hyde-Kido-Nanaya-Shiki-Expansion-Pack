@@ -17,6 +17,7 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 **PLEASE DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases) AS MAIN ISN'T UPDATED TO V2 YET** 
 
 # Trailer
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4YLnAan75QA/0.jpg)](https://www.youtube.com/watch?v=4YLnAan75QA)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2hXgKpWCHTU/0.jpg)](https://www.youtube.com/watch?v=2hXgKpWCHTU)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wOhzSrCsMzg/0.jpg)](https://www.youtube.com/watch?v=wOhzSrCsMzg)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wU6msn0UArA/0.jpg)](https://www.youtube.com/watch?v=wU6msn0UArA)
@@ -168,4 +169,40 @@ He just got here so he's just unchanged lol
 - 214EX added (Basically from H-Nanaya in MBAACC)
 - 214BC added (214EX but weaker and no iframes, has armor on startup and can be jump cancelable any time after the upwards kick though)
 - 2C (first hitbox) reduced dmg (900 -> 750)
-- 
+
+# V3 Patch Notes
+**Hyde**
+- Hyde's throw is now able to combo at a wall like it was intended to
+- 6BC && 2BC can cancel into other skills like it was intended to
+- New Moon cutins
+- Translated IW line
+
+**Nanaya**
+- 421A/B was added
+- 41236SP (regular) hitbox comes out a tad bit later to prevent unblockable setups
+- 41236SP (HEAT) raw hitbox comes out a bit later to prevent unblockable setups
+- New 6A combo added, basically H-Nanaya from MBAACC (6A three times)
+
+**EX Tohno**
+- 236EX Timed Slash reworked entirely
+- Brand new arc drive
+- Brand new last arc
+- 623B is now a copy of Nanaya's
+- 236A/B rekka damage nerfed
+- 236A/B rekka EX cancel window moved later
+- Afterimage bugs fixed
+
+**Linne**
+- No changes yet since she was just added
+
+**Other**
+- Character select screen updated to have more icons
+- Character select screen updated background visuals
+- New main menu music
+- New character select music
+- New battle BGM
+- UNi2 stages now playable
+- MBTL boss rush stages now playable
+- New Linne icon and plate
+- In-game command lists finally added
+- New opening movie
