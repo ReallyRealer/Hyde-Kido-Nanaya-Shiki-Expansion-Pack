@@ -46,6 +46,8 @@ https://github.com/user-attachments/assets/d5b2ac05-d72a-458f-8db1-3fc196e8a6f0
 
 
 # Movesets
+**ALL COMMANDS ARE NOW INVISIBLE INGAME AS OF V3**
+
 **Hyde** - Literally just [this](https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde#Move_List) (his Arc Drive is 41236+D like UNi though and Veil Bringer is 236BC like UNi2 as well)
 
 I forgor that he has moon skills lol
@@ -61,12 +63,14 @@ I forgor that he has moon skills lol
 - 623A + A (cancels 623A into a fastfall)
 - 623B + B (cancels 623B into a upwards flip)
 - 0202x is just his tp series
-- J2B (kick dive)
+- J2B (dive kick)
 - 214x is a new series (mainly just reused his boss rush 0202D adds but as separate moves)
 - 2BC is a TP stance that can be canceled into A or B (holding backwards will make him go the opposite direction) you can also cancel into A twice or A into B
 - 4BC is just Tohno Shiki's regular one since it was already fine
 - 6BC is a special version of his regular 236x series where he'll uppercut upon hit and if you press B upon hitting you'll be able to cancel into his upwards TP
 - 3BC is Tohno Shiki's except this time upon successful hit he'll cancel into his flip automatically
+- J214A (From H-Nanaya in MBAACC)
+- J214B (From H-Nanaya in MBAACC)
 - J214EX (From H-Nanaya in MBAACC)
 - J214BC (J214EX but weaker and has armor, can be jump cancelable anytime after the second kick)
 - New Arc Drive with two versions (Regular & HEAT)
@@ -85,9 +89,11 @@ I forgor that he has moon skills lol
 - MBAACC Tohno's standing B add is back (press B again after 5B it can also be increased if you hold it)
 - 214x adds reworked (214EX is more similar to MBAACC except doesn't force a wall bounce unless near)
 - 214EX can be canceled into feint by pressing D or doing the feint input
+- 421x new grounded series based on F-Tohno's 0202x in MBAACC
 - New Arc Drive
 - New Last Arc
 
+**Linne** - Literally just [this](https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Linne) (She can use her arc drive via 236+BC or 41236+D, also to do rapid beat instead of C_C follw up, hold upwards then press C again)
 
 # How to enable/disable Hyde announcer
 
