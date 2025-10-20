@@ -1,5 +1,5 @@
 # Hyde Kido + Nanaya Shiki Expansion Pack
-My mod that features a (UNi2) Hyde port & a custom Nanaya that has alternated versions of Tohno's moves to replicate MBAACC Nanaya
+My mod that features a (UNi2) Hyde port, a custom Nanaya that has alternated versions of Tohno's moves to replicate MBAACC Nanaya, a custom Tohno kit, and a (UNi2) Linne port
 
 
 Atm this is only my second FB project
@@ -14,7 +14,7 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 
 [Waffle House stage](https://gamebanana.com/mods/367862) by [NOGAMES](https://gamebanana.com/members/2108630) 
 
-**PLEASE DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases) AS MAIN ISN'T UPDATED TO V2 YET** 
+**DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases)** 
 
 # Trailer
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4YLnAan75QA/0.jpg)](https://www.youtube.com/watch?v=4YLnAan75QA)
@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/d5b2ac05-d72a-458f-8db1-3fc196e8a6f0
 
 
 # Movesets
-**ALL COMMANDS ARE NOW INVISIBLE INGAME AS OF V3**
+**ALL COMMANDS ARE NOW VISIBLE INGAME AS OF V3**
 
 **Hyde** - Literally just [this](https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Hyde#Move_List) (his Arc Drive is 41236+D like UNi though and Veil Bringer is 236BC like UNi2 as well)
 
@@ -94,6 +94,11 @@ I forgor that he has moon skills lol
 - New Last Arc
 
 **Linne** - Literally just [this](https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Linne) (She can use her arc drive via 236+BC or 41236+D, also to do rapid beat instead of C_C follw up, hold upwards then press C again)
+Moon skills
+- 2BC (5FF from UNi)
+- 6BC, only usuable after 236x (236x --> 6FF from UNi2)
+- Dash BC (Dash FF from UNi2)
+- 4BC (Smart steer ender from UNi2)
 
 # How to enable/disable Hyde announcer
 
