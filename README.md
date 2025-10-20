@@ -25,7 +25,11 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 
 # Showcase
 
-![image](https://github.com/user-attachments/assets/9c45fb71-b476-4d6a-8f93-ee6cf92e3d52)
+![image](https://github.com/user-attachments/assets/9828566d-c0dd-4ea3-bdf0-6ccaa00a91cd)
+
+![image](https://github.com/user-attachments/assets/60d30164-0311-466b-b3f8-576bcd4b7a59)
+
+![image](https://github.com/user-attachments/assets/9b76aae6-61a9-4bc9-b5e3-d735f7327c74)
 
 
 https://github.com/user-attachments/assets/04555d53-f3cf-4388-b89f-9aa85c02f310
@@ -138,11 +142,6 @@ Stayed the same for the most part
 
 He just got here so he's just unchanged lol
 
-![image](https://github.com/user-attachments/assets/6bc16880-20c6-4f19-82f9-8014f8bec7a0)
-
-
-- Selectable by going either down from Nanaya or up from P.Ciel
-
 
 # V2.0.1 Patch Notes
 
@@ -201,8 +200,9 @@ He just got here so he's just unchanged lol
 - New main menu music
 - New character select music
 - New battle BGM
-- UNi2 stages now playable
+- UNi2 stages now playable (including a cut stage)
 - MBTL boss rush stages now playable
 - New Linne icon and plate
 - In-game command lists finally added
 - New opening movie
+- Adjusted Roa & Kohaku's character select pose
