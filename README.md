@@ -4,7 +4,6 @@ My mod that features a (UNi2) Hyde port, a custom Nanaya that has alternated ver
 
 Atm this is only my second FB project
 
-EX Tohno is selectable by pressing down while on Nanaya or up while on P.Ciel
 
 **CREDITS:** 
 
