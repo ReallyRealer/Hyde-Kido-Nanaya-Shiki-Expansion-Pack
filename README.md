@@ -31,14 +31,25 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 ![image](https://github.com/user-attachments/assets/9b76aae6-61a9-4bc9-b5e3-d735f7327c74)
 
 
+
+
+
+
 https://github.com/user-attachments/assets/04555d53-f3cf-4388-b89f-9aa85c02f310
 
 
-https://github.com/user-attachments/assets/a62ffdda-d49e-49b8-a919-eebd01efbba6
+
+https://github.com/user-attachments/assets/de4e9bee-a761-4b10-a674-f5fe6bf33ba2
 
 
 
-https://github.com/user-attachments/assets/d5b2ac05-d72a-458f-8db1-3fc196e8a6f0
+
+https://github.com/user-attachments/assets/5308db9e-1a5e-4254-a678-7b66e6c4a625
+
+
+
+
+https://github.com/user-attachments/assets/b53749a1-6327-4b58-a902-9016670c67a2
 
 
 
