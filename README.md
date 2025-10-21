@@ -187,7 +187,7 @@ He just got here so he's just unchanged lol
 - Translated IW line
 
 **Nanaya**
-- 421A/B was added
+- J214A/B was added
 - 41236SP (regular) hitbox comes out a tad bit later to prevent unblockable setups
 - 41236SP (HEAT) raw hitbox comes out a bit later to prevent unblockable setups
 - New 6A combo added, basically H-Nanaya from MBAACC (6A three times)
@@ -199,6 +199,7 @@ He just got here so he's just unchanged lol
 - 623B is now a copy of Nanaya's
 - 236A/B rekka damage nerfed
 - 236A/B rekka EX cancel window moved later
+- 421x series added (F-Tohno 0202x kicks)
 - Afterimage bugs fixed
 
 **Linne**
