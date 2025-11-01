@@ -108,7 +108,7 @@ I forgor that he has moon skills lol
 - New Arc Drive
 - New Last Arc
 
-**Linne** - Literally just [this](https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Linne) (She can use her arc drive via 236+BC or 41236+D, also to do rapid beat instead of C_C follw up, hold upwards then press C again)
+**Linne** - Literally just [this](https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Linne) (She can use her arc drive via 236+BC or 41236+D, also to do rapid beat instead of C_C follow up, hold upwards then press C again)
 Moon skills
 - 2BC (5FF from UNi)
 - 6BC, only usuable after 236x (236x --> 6FF from UNi2)
