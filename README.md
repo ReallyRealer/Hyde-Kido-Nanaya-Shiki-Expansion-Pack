@@ -233,3 +233,12 @@ He just got here so he's just unchanged lol
 - In-game command lists finally added
 - New opening movie
 - Adjusted Roa & Kohaku's character select pose
+
+# V3.01 Patch Notes
+**Hyde**
+- Rapid beat is now minus on block
+- Hurtboxes adjusted
+
+**Linne**
+- Rapid beat is now minus on block
+- J63214x command isn't as strict anymore
