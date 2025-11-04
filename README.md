@@ -242,3 +242,22 @@ He just got here so he's just unchanged lol
 **Linne**
 - Rapid beat is now minus on block
 - J63214x command isn't as strict anymore
+
+# V3.02 Patch Notes
+**Hyde**
+- Can now armor break with all EX moves
+- 236BC (6BC) can now armor break when fully charged
+- 214BC & J214BC damage nerfed
+
+**Linne**
+- Can now armor break with all EX moves
+- 214BC damage nerfed
+
+**Nanaya**
+- Can now armor break with all EX moves
+
+**EX Tohno**
+- Can now armor break with all EX moves
+
+**Other**
+- Removed "temp" folder from bgm folder (accidentally left that there and it increased file size lol)
