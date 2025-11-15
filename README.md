@@ -13,6 +13,8 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 
 [Waffle House stage](https://gamebanana.com/mods/367862) by [NOGAMES](https://gamebanana.com/members/2108630) 
 
+[Resentone](https://www.youtube.com/@Resentone) and [Kuroba Kaito](https://www.youtube.com/@Kaitou_KID) for creating several Nanaya sprite edits (check out their MUGEN mods! That's where they were originally used!)
+
 **DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases)** 
 
 
