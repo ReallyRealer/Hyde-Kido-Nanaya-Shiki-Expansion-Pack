@@ -31,13 +31,19 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 
 # Showcase
 
+<img width="1920" height="1080" alt="Screenshot (6372)" src="https://github.com/user-attachments/assets/9a53ace0-f7e3-4630-a47b-5e7b8e81e7a6" />
+
 ![image](https://github.com/user-attachments/assets/9828566d-c0dd-4ea3-bdf0-6ccaa00a91cd)
 
-![image](https://github.com/user-attachments/assets/60d30164-0311-466b-b3f8-576bcd4b7a59)
+<img width="1920" height="1080" alt="Screenshot (6375)" src="https://github.com/user-attachments/assets/31301f99-1d29-483f-81b1-02c63b9a0fa8" />
 
 ![image](https://github.com/user-attachments/assets/9b76aae6-61a9-4bc9-b5e3-d735f7327c74)
 
+<img width="1920" height="1080" alt="Screenshot (6376)" src="https://github.com/user-attachments/assets/d220aebb-d613-47a8-81ec-1f93ed964837" />
 
+<img width="1920" height="1080" alt="Screenshot (6373)" src="https://github.com/user-attachments/assets/d5bac8e5-1c72-4efd-be6e-7443c380fdd0" />
+
+<img width="1920" height="1080" alt="Screenshot (6377)" src="https://github.com/user-attachments/assets/ca38081f-d6e9-44f3-965f-a0adf1149cb2" />
 
 
 
@@ -263,3 +269,30 @@ He just got here so he's just unchanged lol
 
 **Other**
 - Removed "temp" folder from bgm folder (accidentally left that there and it increased file size lol)
+
+# V3.1B Patch Notes
+**Nanaya**
+- Uses custom sprites now (by Resentone and Kuroba Kaito)
+- New Arc Drive/LA cutin
+- 214A now launches upwards (and is OTG)
+- 214A can't be feinted anymore (bc that's what 22C is for)
+- You can now charge 623B, doing so will make him do his C-Moon throw at the end of the DP instead
+- Arc Drives revamped
+- Last Arc animation updated
+- New Intro vs EX Tohno
+- Some new voicelines
+- Updated csel and VS screen visuals
+
+**EX Tohno**
+- 421x series animatino adjusted to look more polished
+- 421B can now be charged, making it unblockable, stronger, armored, and have more combo potential if used as a starter.
+- 421x series doesn't break armor anymore (unless you use charged 421B or 421EX)
+- 2C can now be charged (it becomes stronger, armored, and OTG)
+
+**Other**
+- New Stages added
+- New BGM added
+- New Csel music
+- Using two UNi chars against each other will now play the UNi1 vs screen
+- New W.I.P custom menus
+- Modded char names finally present
