@@ -45,6 +45,9 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 
 <img width="1920" height="1080" alt="Screenshot (6377)" src="https://github.com/user-attachments/assets/ca38081f-d6e9-44f3-965f-a0adf1149cb2" />
 
+<img width="1920" height="1080" alt="Screenshot (6361)" src="https://github.com/user-attachments/assets/fb4f19be-d09c-49bb-bb60-6c47c8a763bf" />
+
+
 
 
 
@@ -52,7 +55,10 @@ https://github.com/user-attachments/assets/04555d53-f3cf-4388-b89f-9aa85c02f310
 
 
 
-https://github.com/user-attachments/assets/de4e9bee-a761-4b10-a674-f5fe6bf33ba2
+
+
+https://github.com/user-attachments/assets/7cd3d756-37e2-47e3-b3e1-19c9156dd7cb
+
 
 
 
@@ -85,6 +91,7 @@ I forgor that he has moon skills lol
 - J0202 (fastfall by double tapping down in midair)
 - 623A + A (cancels 623A into a fastfall)
 - 623B + B (cancels 623B into a upwards flip)
+- 623B (Hold B) alternate ender where he will do his C-Moon grab instead of being able to cancel into a flip
 - 0202x is just his tp series
 - J2B (dive kick)
 - 214x is a new series (mainly just reused his boss rush 0202D adds but as separate moves)
@@ -113,6 +120,8 @@ I forgor that he has moon skills lol
 - 214x adds reworked (214EX is more similar to MBAACC except doesn't force a wall bounce unless near)
 - 214EX can be canceled into feint by pressing D or doing the feint input
 - 421x new grounded series based on F-Tohno's 0202x in MBAACC
+- 421B can be charged for a powered up version
+- 2C can be charged
 - New Arc Drive
 - New Last Arc
 
