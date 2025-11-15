@@ -9,7 +9,7 @@ Atm this is only my second FB project
 
 MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Drive & Last Arc)
 
-[Fatih120 ](https://github.com/Fatih120) for making the Nanaya idle sprite edit
+[Fatih120 ](https://github.com/Fatih120) for making the Nanaya idle sprite edit (This idle sprite isn't used anymore but I'm still thankful for it!)
 
 [Waffle House stage](https://gamebanana.com/mods/367862) by [NOGAMES](https://gamebanana.com/members/2108630) 
 
