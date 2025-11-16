@@ -321,3 +321,4 @@ He just got here so he's just unchanged lol
 
 **Other**
 - Hitbox viewer added for training mode
+- Cleaned up some temp files that were left over to reduce file size
