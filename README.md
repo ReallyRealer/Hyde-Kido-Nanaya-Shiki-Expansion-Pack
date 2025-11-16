@@ -15,6 +15,12 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 
 [Resentone](https://www.youtube.com/@Resentone) and [Kuroba Kaito](https://www.youtube.com/@Kaitou_KID) for creating several Nanaya sprite edits (check out their MUGEN mods! That's where they were originally used!)
 
+[StockSoul](https://www.youtube.com/@stocksoul/videos) for helping with porting the hitbox viewer over
+
+UNi2 Vanilla+ by [Pixloen](https://www.youtube.com/@pixloen/featured) (source of hitbox viewer)
+
+[FLS Flora](https://github.com/UnderNightInBirth/FLS-Flora) used formatting from here for the hitbox viewer
+
 **DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases)** 
 
 
@@ -305,3 +311,13 @@ He just got here so he's just unchanged lol
 - Using two UNi chars against each other will now play the UNi1 vs screen
 - New W.I.P custom menus
 - Modded char names finally present
+
+# V3.1.1 Patch Notes
+**Hyde**
+- 5A can be canceled into rapid beat or shield (whiff penalty is now possible)
+
+**Linne**
+- 5A can be canceled into rapid beat or shield (whiff penalty is now possible)
+
+**Other**
+- Hitbox viewer added for training mode
