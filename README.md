@@ -336,3 +336,6 @@ He just got here so he's just unchanged lol
 **Nanaya**
 - Fixed 22A not working (I accidentally commented it out and forgot to enable it again lol)
 - Inputting 214A isn't as strict anymore
+
+**Other**
+- Fixed Dantes' black flames not being the correct color after hitbox inclusion (thanks StockSoul!)
