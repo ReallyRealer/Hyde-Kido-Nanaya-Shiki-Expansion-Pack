@@ -322,3 +322,17 @@ He just got here so he's just unchanged lol
 **Other**
 - Hitbox viewer added for training mode
 - Cleaned up some temp files that were left over to reduce file size
+
+# V3.1.2 Patch Notes
+**Hyde**
+- Adjusted hurt patterns
+
+**Linne**
+- New hit vectors for J63214x (now bounces high enough for 2C)
+- New hit vectors for J2B (now bounces low enough for 2C)
+- 6C isn't as strict anymore
+- Adjusted hurt patterns
+
+**Nanaya**
+- Fixed 22A not working (I accidentally commented it out and forgot to enable it again lol)
+- Inputting 214A isn't as strict anymore
