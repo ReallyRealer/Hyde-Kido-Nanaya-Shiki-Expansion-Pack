@@ -339,3 +339,29 @@ He just got here so he's just unchanged lol
 
 **Other**
 - Fixed Dantes' black flames not being the correct color after hitbox inclusion (thanks StockSoul!)
+
+# V3.2 Patch Notes
+**Hyde**
+- Updated Text Visuals
+- Arcade mode added
+- Other single player visuals added
+
+**Linne**
+- Updated Text Visuals
+- Arcade mode added
+- Other single player visuals added
+
+**Nanaya**
+- 623[B] will now snap the opponent in place for the leg throw on counter hits
+- Adjustment to LA sfx timing
+- Updated Text Visuals
+
+**EX Tohno**
+- 41236SP rapid slashes redone to not give the opponent a ton of meter
+- 421B increased startup
+- Nerfed armor on 2[C]
+- Updated Text Visuals
+
+**Other**
+- More music for story arcades
+- New Opening Movie
