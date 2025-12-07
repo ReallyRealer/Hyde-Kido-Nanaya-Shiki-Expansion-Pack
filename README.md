@@ -354,6 +354,7 @@ He just got here so he's just unchanged lol
 **Nanaya**
 - 623[B] will now snap the opponent in place for the leg throw on counter hits
 - Adjustment to LA sfx timing
+- 4BC used in a combo will allow you to latch onto the opponent and launch them with a cut
 - Updated Text Visuals
 
 **EX Tohno**
