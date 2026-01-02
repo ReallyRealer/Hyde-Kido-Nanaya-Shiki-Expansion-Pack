@@ -1,5 +1,5 @@
 # Hyde Kido + Nanaya Shiki Expansion Pack
-My mod that features a (UNi2) Hyde port, a custom Nanaya that has alternated versions of Tohno's moves to replicate MBAACC Nanaya, a custom Tohno kit, and a (UNi2) Linne port
+My mod that features a (UNi2) Hyde port, a custom Nanaya that has alternated versions of Tohno's moves to replicate MBAACC Nanaya, a custom Tohno kit, a (UNi2) Linne port, a (UNi2) Orie port, and a (DFCI) Rentaro port.
 
 
 Atm this is only my second FB project
@@ -7,7 +7,7 @@ Atm this is only my second FB project
 
 **CREDITS:** 
 
-MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Drive & Last Arc)
+MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Drive, Last Arc, and 623B grab throw)
 
 [Fatih120 ](https://github.com/Fatih120) for making the Nanaya idle sprite edit (This idle sprite isn't used anymore but I'm still thankful for it!)
 
@@ -19,7 +19,9 @@ MBTL GX made by U4ick (I reused & edited some of its assets for Nanaya's Arc Dri
 
 UNi2 Vanilla+ by [Pixloen](https://www.youtube.com/@pixloen/featured) (source of hitbox viewer)
 
-[FLS Flora](https://github.com/UnderNightInBirth/FLS-Flora) used formatting from here for the hitbox viewer
+Bootysama's UNi cl-r modpack (I reused the cut-in functions for Rentaro)
+
+UNi2TM by [Pixloen](https://www.youtube.com/@pixloen/featured) & Bootysama (Used the translations for Rentaro's intros, dunno if the translations originated here but this is where I found them.)
 
 **DOWNLOAD FROM THE [RELEASES TAB](https://github.com/ReallyRealer/Hyde-Kido-Nanaya-Shiki-Expansion-Pack/releases)** 
 
@@ -139,6 +141,21 @@ Moon skills
 - 6BC, only usuable after 236x (236x --> 6FF from UNi2)
 - Dash BC (Dash FF from UNi2)
 - 4BC (Smart steer ender from UNi2)
+
+**Orie** - Literally just [this](https://mizuumi.wiki/w/Under_Night_In-Birth/UNI2/Orie) (Arc Drive is on 41236+D as 236BC is an existing move for her, also her UNi2 3C is rebinded to 6C)
+Moon skills
+- 2BC (5FF from UNi)
+- j.2BC (Air 5FF from UNi)
+- 4BC (Sends Thanatos forward and then she'll do a spin that hits twice and finishes off with slamming her sword, bouncing the opponent)
+- 3BC (Just your traditional MBTL DP with clash frames)
+- 6BC (Smart steer ender from UNi2)
+
+**Rentaro** - Mainly just [this](https://mizuumi.wiki/w/Dengeki_Bunko:_Fighting_Climax/DFCI/Rentaro_Satomi) (Kohaku Tensei is his rapid beat, impact break is rebinded to 4B and backstep macro is set to 1+A+B)
+Moon skills
+- 4BC (Punches forward then follows up with a strike from above, bouncing the opponent)
+- 2BC (Just your traditional MBTL DP with clash frames)
+- 6BC (Full Screen Gunshot that can be a combo starter if you land a counter hit, it also slides him back)
+- J.6BC (Full Screen Gunshot sent at an angle and Rentaro moves further back than the normal versions)
 
 # How to enable/disable Hyde announcer
 
@@ -368,3 +385,46 @@ He just got here so he's just unchanged lol
 **Other**
 - More music for story arcades
 - New Opening Movie
+
+# V4.0 Patch Notes
+**Hyde**
+- 214BC now snaps opponents inplace ONLY when it deals damage
+- 236BC (Veil Bringer) can only be MD canceled on successful hits
+- 236BC (Veil Bringer) can now be MD canceled on final hit and is adjusted to UNi2 1.35 data
+- 623B can only be MD canceled on successful hits
+- 623EX can only be MD canceled on successful hits
+- New Air Throw
+- Now has proper wake up times like the rest of the vanilla cast
+
+**Linne**
+- 623B can only be MD canceled on successful hits
+- 623EX can only be MD canceled on successful hits
+- Last Arc now deals proper damage
+- Now has proper wake up times like the rest of the vanilla cast
+
+**Nanaya**
+- J2B now has more endlag
+- J2B no longer gains unlimited speed (now has a maxinum X speed)
+- J2B infinite removed
+- Updated color edit visuals
+
+**EX Tohno**
+- 623A Kick Follow-up can now be air teched
+- J236B has less untech time
+- J236B nerfed damage (1200 to 800)
+- J236B no longer deals big damage in longer combos
+
+**Orie**
+- Newcomer
+
+**Rentaro**
+- Newcomer
+
+**Other**
+- Updated CSel
+- New CSel BGM
+- New Stage: The Aoko Zone
+- New Stage: Under Night In-Birth Exe:Late [ s  t ] title screen
+- New song: First Star
+- Removed Song: Blue Garden
+- Added interactions from UNi2 regarding Hyde, Linne, and Orie
