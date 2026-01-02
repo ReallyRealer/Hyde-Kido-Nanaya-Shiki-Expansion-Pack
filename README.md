@@ -413,6 +413,7 @@ He just got here so he's just unchanged lol
 - J236B has less untech time
 - J236B nerfed damage (1200 to 800)
 - J236B no longer deals big damage in longer combos
+- 421[B] no longer works as a combo starter (makes the opponent unhittable)
 
 **Orie**
 - Newcomer
