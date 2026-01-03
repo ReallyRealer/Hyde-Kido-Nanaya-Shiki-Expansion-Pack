@@ -429,3 +429,27 @@ He just got here so he's just unchanged lol
 - New song: First Star
 - Removed Song: Blue Garden
 - Added interactions from UNi2 regarding Hyde, Linne, and Orie
+
+# V4.0.1 Patch Notes
+**Hyde**
+- Unchanged
+
+**Linne**
+- Fixed an issue where she would start sliding forward when hit by attacks that cause you to land face down
+
+**Nanaya**
+- Fixed a small visual issue regarding his taunt
+
+**EX Tohno**
+- 22B damage nerfed (1900 --> 1380)
+
+**Orie**
+- Fixed Visual Bug with Charged Released (holding down A+B+C)
+
+**Rentaro**
+- Redid 22X series Hit/Hurtboxes (Basically like Arcueid's) - This change was made because the original attack had a giant hitbox
+- 41236SP now has iframes until the the first active hitbox comes out
+- 41236SP mininum damage % reduced (40 --> 22) <-- Caused this move to do way more damage in a combo compared to others
+- Both versions of 214C have reduced damage (regular 1600 --> 1450 | charged 1900 --> 1735) <-- These numbers take in account for both hits landing
+- 5C damage reduced (700 --> 600)
+- J214A damage reduced (1200 --> 900)
