@@ -156,6 +156,9 @@ Moon skills
 - 2BC (Just your traditional MBTL DP with clash frames)
 - 6BC (Full Screen Gunshot that can be a combo starter if you land a counter hit, it also slides him back)
 - J.6BC (Full Screen Gunshot sent at an angle and Rentaro moves further back than the normal versions)
+Assists
+- 236D (Enju appears infront of Rentaro and kicks the opponent into the air, a close-up will happen if the opponent is hit while standing)
+- 214D (Enju will charge down from the air and kick the opponent, launching them upwards. If Anju lands a clean hit on the opponent a close-up will happen and she will follow-up with a second attack from the air)
 
 # How to enable/disable Hyde announcer
 
@@ -453,3 +456,26 @@ He just got here so he's just unchanged lol
 - Both versions of 214C have reduced damage (regular 1600 --> 1450 | charged 1900 --> 1735) <-- These numbers take in account for both hits landing
 - 5C damage reduced (700 --> 600)
 - J214A damage reduced (1200 --> 900)
+
+# V4.0.2 Patch Notes
+**Hyde**
+- Can now whiff cancel on 2A
+- Fixed Guarding issues
+
+**Linne**
+- Can now whiff cancel on 2A
+- Fixed Guarding issues
+
+**Nanaya**
+- Unchanged
+
+**EX Tohno**
+- Unchanged
+
+**Orie**
+- Can now whiff cancel on 2A
+- Fixed Guarding issues
+
+**Rentaro**
+- Added 236D & 214D (Enju assists)
+- Can now whiff cancel on 2A
