@@ -479,3 +479,36 @@ He just got here so he's just unchanged lol
 **Rentaro**
 - Added 236D & 214D (Enju assists)
 - Can now whiff cancel on 2A
+
+# V4.0.3 Patch Notes
+**Rentaro**
+- Air recovery bug fix
+
+# V4.0.4 Patch Notes
+**Hyde**
+- 5A recover time increased
+- 2A recover time increased
+
+**Linne**
+- Successful air throws can now be jump canceled a bit after the throw finishes
+
+**Nanaya**
+- 623B correction redone (lower damage output)
+- 214B clone isn't as broken in combos anymore
+- J214EX mininum damage reduced
+- J214Bc mininum damage reduced
+
+**EX Tohno**
+- 2[C] is no longer unshieldable (Didn't notice it did that lol)
+
+**Orie**
+- Successful air throws can now be jump canceled a bit after the throw finishes
+
+**Rentaro**
+- Successful air throws can now be jump canceled a bit after the throw finishes
+
+**Other**
+- AMAZING BREAK - TERRAFORMARS (OP Theme) removed from BGM select
+- [Zanya Gensou Instrumental Remix (Fate Samurai Remnant)](https://www.youtube.com/watch?v=eGUqhUuItW4) Added
+- Asakusa Stage Added (FGO Fate Samurai Remnant Collab Version)
+- Cleaned up some leftover files
