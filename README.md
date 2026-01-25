@@ -491,6 +491,7 @@ He just got here so he's just unchanged lol
 
 **Linne**
 - Successful air throws can now be jump canceled a bit after the throw finishes
+- 6C is now air blockable, preventing air unblockable setups from far away with J236EX
 
 **Nanaya**
 - 623B correction redone (lower damage output)
