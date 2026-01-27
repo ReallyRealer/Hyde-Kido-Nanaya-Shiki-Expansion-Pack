@@ -513,3 +513,55 @@ He just got here so he's just unchanged lol
 - [Zanya Gensou Instrumental Remix (Fate Samurai Remnant)](https://www.youtube.com/watch?v=eGUqhUuItW4) Added
 - Asakusa Stage Added (FGO Fate Samurai Remnant Collab Version)
 - Cleaned up some leftover files
+
+# V4.0.5 Patch Notes
+**Hyde**
+- All normals had damage and correction/proration adjusted
+- 5A recover time increased
+- 214A/B now has more untech time to prevent it dropping as a ender during longer combos
+- 214A/B correction/proration adjusted (decreased)
+- 214EX has more hitstop upon successful hit
+- 623x series damage nerfed
+
+**Linne**
+- All normals had damage and correction/proration adjusted
+- 2A recover time increased
+- 623x series damage nerfed
+- 623A now replicates UNi2's (launces the opponent higher in the air), preventing J2B --> 623A --> J236EX extensions
+- Grounded Throw gives a proper hard knock down now
+- Grounded Throw damage adjusted (1635 --> 1500)
+- 214x AddB & AddC correction/proration adjusted (decreased)
+
+**Nanaya**
+- 623B correction redone (again)
+- 623[B] does more damage and scales better in combos
+- 214B correction/proration adjusted (lowered)
+- 214B clone correction/proration adjusted
+- 236EX damage nerfed and adjusted correction/proration
+- Jumping C damage adjusted
+
+**EX Tohno**
+- J236B damage reduced (900 --> 600)
+
+**Orie**
+- All normals had damage and correction/proration adjusted
+- 623x series damage nerfed
+- 214EX final hit correction/proration adjusted (lowered)
+- 236[B] damage nerfed
+- Rapid Beat has a larger collision box, preventing random side switches mid-combo
+- 236BC (aka 41236EX) increased additional hitstop on final successful hit
+- Fixed an issue where Air Throw would hit an additional time, making it stronger than other Air Throws
+
+**Rentaro**
+- All normals had damage and correction/proration adjusted
+- 5A/2A durations adjusted
+- 214A starter correction/proration adjusted (lowered)
+- 214[A] starter correction/proration adjusted (lowered)
+- 214C starter correction/proration adjusted (lowered)
+- 214[C] starter correction/proration adjusted (lowered)
+- 236x series now has proper starter correction/proration
+- 236B reduced combo reduction
+
+**Other**
+- Added missing vs screen for Asakusa stage
+- Updated Vector Table
