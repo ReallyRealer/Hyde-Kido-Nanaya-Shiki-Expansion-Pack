@@ -571,10 +571,13 @@ He just got here so he's just unchanged lol
 - All aerials speed adjusted to Lumina standards
 - 3BC added
 - EX Style added
+- Successful Air Throw can now be jump canceled after the slam
 
 **Linne**
 - All aerials speed adjusted to Lumina standards
 - 3BC Added
+- C_C works like P.Ciel now, where you have to press 4+C after hitting C
+- When using Rapid Beat Type 2, Dash 6+B+C is rebinded to Dash 6+B (Cause for some reason this style doesn't work with B+C??)
 
 **Orie**
 - All aerials speed adjusted to Lumina standards
@@ -587,6 +590,7 @@ He just got here so he's just unchanged lol
 - New Hyde vs EX Tohno Intro
 - New Main Menu
 - New Main Menu BGM
+- Custom Nanaya Lobby Sprites Added
 - Added EX Style Toggle in Training
 - Added Enju CD Toggle in Training
 - Updated Vector Table
