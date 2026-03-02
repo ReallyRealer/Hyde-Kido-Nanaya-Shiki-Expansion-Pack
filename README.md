@@ -565,3 +565,28 @@ He just got here so he's just unchanged lol
 **Other**
 - Added missing vs screen for Asakusa stage
 - Updated Vector Table
+
+# V4.1 Patch Notes
+**Hyde**
+- All aerials speed adjusted to Lumina standards
+- 3BC added
+- EX Style added
+
+**Linne**
+- All aerials speed adjusted to Lumina standards
+- 3BC Added
+
+**Orie**
+- All aerials speed adjusted to Lumina standards
+
+**Rentaro**
+- All aerials speed adjusted to Lumina standards
+- 214[A] starter correction adjusted
+
+**Other**
+- New Hyde vs EX Tohno Intro
+- New Main Menu
+- New Main Menu BGM
+- Added EX Style Toggle in Training
+- Added Enju CD Toggle in Training
+- Updated Vector Table
