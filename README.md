@@ -604,3 +604,11 @@ He just got here so he's just unchanged lol
 **Other**
 - All Scripts are updated to V1.46 to ensure stability and reduce desyncs
 - Boss Character build added due to a request (THE BOSS CHARACTER BUILD OF THIS MOD IS NOT ONLINE SAFE WITH VANILLA PLAYERS AND SHOULD ONLY BE USED AGAINST OTHERS USING THE BOSS RUSH BUILD!)
+
+# V4.1.2 Patch Notes
+**Linne**
+- Bug fixes to Linne's command file
+- Alternate way to do Dashing B+C attack is Dash + 3B instead of Dash + 3+A+B to fix bugs (this is just a workaround for A+B rapid beat breaking this move's regular command)
+**Other**
+- Fixed the "fake moon skill" bug
+- Removed the purple meter bar (It was unfinished and felt off since I didn't change the glow color.)
