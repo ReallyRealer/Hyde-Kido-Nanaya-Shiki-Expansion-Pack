@@ -599,3 +599,8 @@ He just got here so he's just unchanged lol
 - Added EX Style Toggle in Training
 - Added Enju CD Toggle in Training
 - Updated Vector Table
+
+# V4.1.1 Patch Notes
+**Other**
+- All Scripts are updated to V1.46 to ensure stability and reduce desyncs
+- Boss Character build added due to a request (THE BOSS CHARACTER BUILD OF THIS MOD IS NOT ONLINE SAFE WITH VANILLA PLAYERS AND SHOULD ONLY BE USED AGAINST OTHERS USING THE BOSS RUSH BUILD!)
