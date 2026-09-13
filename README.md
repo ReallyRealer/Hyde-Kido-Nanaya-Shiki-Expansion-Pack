@@ -615,4 +615,4 @@ He just got here so he's just unchanged lol
 
 # V4.1.3 Patch Notes
 **Other**
-- Mod Works again and follows a new file structure by using a new dll made by @Zanaylo
+- Mod Works again and follows a new file structure by using a new dll made by [@Zanaylo](https://github.com/Zanaylo)
