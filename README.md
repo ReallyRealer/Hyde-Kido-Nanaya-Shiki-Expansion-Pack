@@ -612,3 +612,7 @@ He just got here so he's just unchanged lol
 **Other**
 - Fixed the "fake moon skill" bug
 - Removed the purple meter bar (It was unfinished and felt off since I didn't change the glow color.)
+
+# V4.1.3 Patch Notes
+**Other**
+- Mod Works again and follows a new file structure by using a new dll made by @Zanaylo
